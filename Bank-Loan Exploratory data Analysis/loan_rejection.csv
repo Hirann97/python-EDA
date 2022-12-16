@@ -1,0 +1,901 @@
+,SK_ID_CURR,TARGET,NAME_CONTRACT_TYPE,GENDER,Car,House,CNT_CHILDREN,AMT_INCOME_TOTAL,AMT_CREDIT,AMT_GOODS_PRICE,NAME_TYPE_SUITE,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,DAYS_EMPLOYED,MOBILE,WORK_PHONE,HOME_PHONE,MOBILE_REACHABLE,FLAG_EMAIL,OCCUPATION_TYPE,CNT_FAM_MEMBERS,APPLICATION_DAY,TOTAL_DOC_SUBMITTED
+42,100049,1,Cash loans,F,N,N,0,135000.0,288873.0,238500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3597,1,1,1,1,0,Sales staff,2.0,THURSDAY,1
+260,100300,1,Cash loans,M,N,N,0,63000.0,426645.0,324000.0,Other_A,Commercial associate,Secondary / secondary special,Single / not married,-1572,1,1,0,1,0,Sales staff,1.0,WEDNESDAY,1
+424,100490,1,Cash loans,M,N,N,0,135000.0,755190.0,675000.0,Family,Working,Secondary / secondary special,Separated,-2354,1,1,1,1,0,Security staff,1.0,WEDNESDAY,1
+563,100649,1,Cash loans,F,N,N,2,180000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-4832,1,1,0,1,0,Laborers,4.0,SUNDAY,1
+564,100650,1,Cash loans,M,N,N,0,135000.0,808650.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1496,1,1,1,1,0,Low-skill Laborers,1.0,SATURDAY,1
+726,100839,1,Cash loans,M,N,N,0,180000.0,824823.0,688500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1815,1,1,0,1,0,Laborers,1.0,SATURDAY,1
+782,100896,1,Cash loans,F,N,N,0,112500.0,1006920.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1252,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+866,100992,1,Cash loans,M,N,N,2,135000.0,203760.0,180000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1453,1,1,1,1,0,Laborers,4.0,SATURDAY,1
+870,100996,1,Cash loans,F,N,N,1,94500.0,675000.0,675000.0,Unaccompanied,State servant,Higher education,Married,-1087,1,1,1,1,0,Sales staff,3.0,WEDNESDAY,1
+1113,101300,1,Cash loans,F,N,N,0,81000.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2631,1,1,1,1,0,Sales staff,2.0,THURSDAY,1
+1192,101406,1,Cash loans,F,N,N,0,87750.0,454500.0,454500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2286,1,1,1,1,0,Laborers,1.0,WEDNESDAY,1
+1235,101458,1,Cash loans,M,N,N,0,202500.0,479637.0,396000.0,Unaccompanied,Working,Higher education,Married,-1404,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+1597,101871,1,Cash loans,M,N,N,0,202500.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2585,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+1731,102025,1,Cash loans,M,N,N,0,135000.0,117162.0,103500.0,Family,Working,Secondary / secondary special,Single / not married,-1149,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+1823,102135,1,Cash loans,F,N,N,0,360000.0,1236816.0,1080000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-5388,1,1,1,1,0,Managers,2.0,SATURDAY,1
+2042,102392,1,Cash loans,M,N,N,0,67500.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2576,1,1,0,1,0,Low-skill Laborers,2.0,SATURDAY,1
+2055,102407,1,Cash loans,M,N,N,0,108000.0,254700.0,225000.0,Unaccompanied,Commercial associate,Incomplete higher,Single / not married,-1430,1,1,1,1,0,Core staff,1.0,TUESDAY,1
+2537,102959,1,Cash loans,F,N,N,0,333000.0,297130.5,256500.0,Family,Working,Secondary / secondary special,Married,-3468,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+2731,103187,1,Cash loans,F,N,N,2,121500.0,473661.0,333000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-6162,1,1,0,1,0,Medicine staff,4.0,FRIDAY,1
+2758,103217,1,Cash loans,F,N,N,0,90000.0,409500.0,409500.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1767,1,1,1,1,0,Laborers,1.0,MONDAY,1
+2848,103324,1,Cash loans,F,N,N,1,112500.0,1078200.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4213,1,1,0,1,0,Laborers,3.0,FRIDAY,1
+3003,103507,1,Cash loans,M,N,N,0,225000.0,1350000.0,1350000.0,Unaccompanied,Commercial associate,Incomplete higher,Single / not married,-5326,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+3202,103739,1,Cash loans,F,N,N,1,135000.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1676,1,1,0,1,0,Laborers,3.0,TUESDAY,1
+3241,103782,1,Cash loans,F,N,N,0,90000.0,343800.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1735,1,1,1,1,0,Sales staff,2.0,THURSDAY,1
+3774,104407,1,Cash loans,F,N,N,0,112500.0,136512.0,108000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2294,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+3854,104508,1,Cash loans,F,N,N,0,135000.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2497,1,1,1,1,0,Core staff,2.0,SATURDAY,1
+4163,104868,1,Cash loans,F,N,N,0,157500.0,1166724.0,913500.0,Unaccompanied,Working,Secondary / secondary special,Separated,-3138,1,1,1,1,0,Sales staff,1.0,MONDAY,2
+4310,105042,1,Cash loans,F,N,N,0,67500.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3682,1,1,1,1,0,Core staff,2.0,THURSDAY,1
+4432,105181,1,Cash loans,M,N,N,2,135000.0,487570.5,441000.0,Family,Working,Secondary / secondary special,Married,-1898,1,1,0,1,0,Laborers,4.0,THURSDAY,1
+4495,105259,1,Cash loans,F,N,N,0,121500.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-4397,1,1,1,1,0,Medicine staff,1.0,SATURDAY,1
+4665,105455,1,Cash loans,F,N,N,0,270000.0,835380.0,675000.0,Family,Working,Secondary / secondary special,Married,-4100,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+4835,105653,1,Cash loans,M,N,N,1,315000.0,675000.0,675000.0,Unaccompanied,Commercial associate,Incomplete higher,Married,-1112,1,1,1,1,0,Core staff,3.0,SATURDAY,1
+4954,105797,1,Cash loans,M,N,N,0,193500.0,387000.0,387000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1323,1,1,0,1,1,Laborers,2.0,SATURDAY,1
+5232,106122,1,Cash loans,F,N,N,0,202500.0,797557.5,688500.0,Unaccompanied,Commercial associate,Higher education,Civil marriage,-2243,1,1,0,1,0,Accountants,2.0,FRIDAY,1
+5452,106381,1,Cash loans,M,N,N,0,135000.0,358344.0,283500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2946,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+5532,106478,1,Cash loans,F,N,N,1,157500.0,1056447.0,922500.0,Unaccompanied,Working,Higher education,Single / not married,-2564,1,1,0,1,0,Core staff,2.0,MONDAY,1
+5662,106625,1,Cash loans,F,N,N,0,180000.0,239850.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1855,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+5694,106659,1,Cash loans,M,N,N,0,450000.0,1546020.0,1350000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-4478,1,1,0,1,0,Managers,2.0,FRIDAY,1
+5751,106725,1,Cash loans,F,N,N,0,112500.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-7081,1,1,1,1,0,Laborers,2.0,MONDAY,1
+5793,106773,1,Cash loans,F,N,N,1,112500.0,921861.0,769500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1643,1,1,0,1,0,High skill tech staff,3.0,THURSDAY,1
+5818,106806,1,Cash loans,F,N,N,1,135000.0,337500.0,337500.0,Unaccompanied,State servant,Secondary / secondary special,Separated,-2043,1,1,1,1,0,Core staff,2.0,WEDNESDAY,1
+5921,106933,1,Cash loans,F,N,N,1,144000.0,521280.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,-3852,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+5952,106971,1,Cash loans,M,N,N,2,85500.0,1288350.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1209,1,1,1,1,0,Laborers,4.0,THURSDAY,1
+6122,107157,1,Cash loans,F,N,N,0,81000.0,916470.0,765000.0,Family,Working,Secondary / secondary special,Married,-5712,1,1,0,1,0,Laborers,2.0,MONDAY,1
+6143,107178,1,Cash loans,M,N,N,0,202500.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1131,1,1,1,1,0,High skill tech staff,2.0,SATURDAY,1
+6160,107195,1,Cash loans,M,N,N,2,90000.0,555273.0,463500.0,Family,Working,Secondary / secondary special,Married,-2385,1,1,0,1,0,Laborers,4.0,WEDNESDAY,1
+6213,107255,1,Cash loans,F,N,N,2,54000.0,364896.0,315000.0,Unaccompanied,State servant,Higher education,Married,-2377,1,1,0,1,0,Core staff,4.0,MONDAY,1
+6312,107367,1,Cash loans,M,N,N,1,202500.0,343800.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-1426,1,1,0,1,0,Laborers,3.0,WEDNESDAY,1
+6398,107465,1,Cash loans,F,N,N,0,81000.0,727785.0,607500.0,Unaccompanied,Working,Secondary / secondary special,Married,-3178,1,1,0,1,0,Laborers,2.0,SUNDAY,1
+6441,107510,1,Cash loans,F,N,N,1,72000.0,284400.0,225000.0,Unaccompanied,Working,Higher education,Married,-2979,1,1,0,1,0,Managers,3.0,THURSDAY,1
+6509,107593,1,Cash loans,F,N,N,0,112500.0,400500.0,400500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1781,1,1,0,1,0,Cooking staff,2.0,MONDAY,1
+6616,107719,1,Cash loans,M,N,N,0,202500.0,781920.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-8822,1,1,0,1,0,Medicine staff,2.0,TUESDAY,1
+6824,107957,1,Cash loans,F,N,N,0,135000.0,909000.0,909000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1721,1,1,1,1,0,Cooking staff,2.0,MONDAY,1
+6948,108094,1,Revolving loans,F,N,N,0,90000.0,202500.0,202500.0,Family,Working,Secondary / secondary special,Married,-3193,1,1,0,1,0,Sales staff,2.0,THURSDAY,0
+6999,108150,1,Cash loans,M,N,N,1,202500.0,1078200.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-5408,1,1,0,1,0,Laborers,3.0,TUESDAY,1
+7089,108255,1,Cash loans,F,N,N,0,202500.0,1498860.0,1237500.0,Unaccompanied,Working,Higher education,Married,-1855,1,1,0,1,0,Laborers,2.0,MONDAY,1
+7249,108440,1,Cash loans,F,N,N,0,180000.0,755190.0,675000.0,Unaccompanied,Working,Higher education,Civil marriage,-9165,1,1,0,1,0,High skill tech staff,2.0,THURSDAY,1
+7276,108472,1,Cash loans,F,N,N,1,72000.0,269550.0,225000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-7414,1,1,1,1,0,Medicine staff,3.0,FRIDAY,1
+7284,108484,1,Cash loans,M,N,N,0,180000.0,776304.0,648000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3427,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+7310,108518,1,Cash loans,M,N,N,1,180000.0,1146816.0,990000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1547,1,1,0,1,0,Low-skill Laborers,3.0,SATURDAY,1
+7361,108578,1,Cash loans,F,N,N,0,112500.0,269550.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1627,1,1,0,1,0,Laborers,2.0,MONDAY,1
+7456,108694,1,Cash loans,F,N,N,2,144000.0,254700.0,225000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1871,1,1,0,1,1,Core staff,4.0,THURSDAY,1
+7477,108719,1,Cash loans,F,N,N,0,315000.0,1350000.0,1350000.0,Unaccompanied,Working,Higher education,Married,-2642,1,1,0,1,0,High skill tech staff,2.0,MONDAY,1
+7521,108770,1,Cash loans,M,N,N,2,157500.0,539100.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1854,1,1,0,1,0,Laborers,4.0,THURSDAY,1
+7539,108790,1,Cash loans,M,N,N,0,180000.0,675000.0,675000.0,Family,State servant,Secondary / secondary special,Single / not married,-1202,1,1,1,1,0,Drivers,1.0,SATURDAY,1
+7638,108902,1,Cash loans,F,N,N,1,180000.0,1288350.0,1125000.0,Unaccompanied,Working,Incomplete higher,Separated,-1767,1,1,0,1,0,Managers,2.0,THURSDAY,1
+7734,109023,1,Cash loans,M,N,N,0,76500.0,472500.0,472500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1882,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+7853,109157,1,Revolving loans,F,N,N,2,112500.0,720000.0,720000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2196,1,1,0,1,0,High skill tech staff,4.0,WEDNESDAY,0
+8038,109375,1,Cash loans,F,N,N,1,135000.0,454500.0,454500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2007,1,1,0,1,0,Sales staff,2.0,MONDAY,1
+8252,109619,1,Cash loans,F,N,N,0,270000.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2204,1,1,1,1,0,Accountants,2.0,TUESDAY,1
+8358,109738,1,Cash loans,M,N,N,0,225000.0,592560.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1403,1,1,0,1,0,Laborers,2.0,MONDAY,1
+8424,109815,1,Cash loans,M,N,N,2,90000.0,906615.0,688500.0,"Spouse, partner",State servant,Secondary / secondary special,Married,-1103,1,1,0,1,0,Core staff,4.0,SATURDAY,1
+8435,109827,1,Cash loans,F,N,N,0,180000.0,654498.0,585000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2454,1,1,0,1,0,Laborers,1.0,MONDAY,1
+8675,110099,1,Cash loans,F,N,N,0,180000.0,269550.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1691,1,1,0,1,0,Medicine staff,1.0,WEDNESDAY,1
+8878,110322,1,Cash loans,M,N,N,0,180000.0,391500.0,391500.0,Family,Working,Secondary / secondary special,Single / not married,-1537,1,1,0,1,0,Drivers,1.0,WEDNESDAY,1
+8884,110330,1,Cash loans,M,N,N,1,157500.0,592560.0,450000.0,Unaccompanied,Commercial associate,Higher education,Married,-2039,1,1,0,1,0,Laborers,3.0,FRIDAY,1
+8962,110429,1,Cash loans,F,N,N,0,171000.0,472500.0,472500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1648,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+9039,110514,1,Cash loans,F,N,N,0,126000.0,284400.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1532,1,1,0,1,0,Sales staff,1.0,SATURDAY,1
+9050,110525,1,Cash loans,F,N,N,0,135000.0,521280.0,450000.0,Unaccompanied,Working,Higher education,Separated,-3768,1,1,1,1,0,Accountants,1.0,FRIDAY,1
+9105,110585,1,Cash loans,M,N,N,0,90000.0,512338.5,423000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1647,1,1,1,1,0,Laborers,1.0,WEDNESDAY,1
+9129,110614,1,Cash loans,F,N,N,1,67500.0,167121.0,139500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1065,1,1,0,1,0,Medicine staff,3.0,FRIDAY,1
+9188,110683,1,Cash loans,M,N,N,0,112500.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1067,1,1,1,1,0,Low-skill Laborers,2.0,SATURDAY,1
+9230,110734,1,Cash loans,F,N,N,0,225000.0,942759.0,828000.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,-3716,1,1,0,1,0,Core staff,1.0,MONDAY,1
+9298,110812,1,Cash loans,F,N,N,0,76500.0,754740.0,630000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3074,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+9307,110821,1,Cash loans,F,N,N,0,90000.0,648000.0,648000.0,Unaccompanied,Commercial associate,Incomplete higher,Married,-2060,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+9460,111000,1,Cash loans,M,N,N,0,135000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1623,1,1,0,1,0,Drivers,2.0,TUESDAY,1
+9574,111129,1,Cash loans,F,N,N,0,135000.0,545040.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1224,1,1,0,1,0,Sales staff,1.0,THURSDAY,1
+9603,111160,1,Cash loans,F,N,N,0,180000.0,1350000.0,1350000.0,Unaccompanied,Working,Higher education,Married,-2895,1,1,0,1,0,Core staff,2.0,SATURDAY,1
+9608,111166,1,Cash loans,F,N,N,0,225000.0,508495.5,454500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3855,1,1,0,1,0,Sales staff,2.0,MONDAY,1
+9838,111449,1,Cash loans,F,N,N,0,270000.0,490495.5,454500.0,Unaccompanied,Working,Higher education,Married,-5176,1,1,0,1,0,Sales staff,2.0,THURSDAY,1
+10030,111671,1,Cash loans,F,N,N,0,180000.0,808650.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3120,1,1,1,1,0,Sales staff,2.0,FRIDAY,1
+10490,112217,1,Cash loans,F,N,N,2,157500.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3000,1,1,0,1,0,Core staff,4.0,THURSDAY,1
+10494,112221,1,Cash loans,M,N,N,0,202500.0,494550.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-4182,1,1,1,1,0,Managers,1.0,MONDAY,1
+10607,112361,1,Cash loans,M,N,N,1,180000.0,1067940.0,765000.0,Family,Working,Secondary / secondary special,Married,-1101,1,1,0,1,0,Laborers,3.0,WEDNESDAY,1
+10724,112489,1,Cash loans,M,N,N,0,225000.0,450000.0,450000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,-2043,1,1,0,1,0,Managers,1.0,WEDNESDAY,1
+10747,112515,1,Cash loans,F,N,N,0,157500.0,922500.0,922500.0,Unaccompanied,State servant,Secondary / secondary special,Married,-6751,1,1,1,1,0,Cooking staff,2.0,SATURDAY,1
+10946,112743,1,Cash loans,M,N,N,2,225000.0,855000.0,855000.0,Family,State servant,Higher education,Single / not married,-2753,1,1,1,1,0,High skill tech staff,3.0,WEDNESDAY,1
+11029,112849,1,Cash loans,M,N,N,0,112500.0,521280.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-5706,1,1,1,1,0,Drivers,2.0,THURSDAY,1
+11183,113033,1,Cash loans,F,N,N,0,450000.0,808650.0,675000.0,Unaccompanied,Commercial associate,Lower secondary,Married,-2818,1,1,0,1,0,Sales staff,2.0,FRIDAY,1
+11193,113044,1,Cash loans,F,N,N,0,193500.0,1024740.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1702,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+11451,113334,1,Cash loans,M,N,N,1,126000.0,225000.0,225000.0,Unaccompanied,Working,Higher education,Married,-1587,1,1,0,1,0,High skill tech staff,3.0,THURSDAY,1
+11567,113478,1,Cash loans,M,N,N,1,90000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-5029,1,1,1,1,0,Laborers,3.0,THURSDAY,1
+11637,113556,1,Cash loans,F,N,N,0,135000.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-5828,1,1,0,1,0,Core staff,2.0,SATURDAY,1
+11697,113635,1,Cash loans,F,N,N,0,121500.0,348264.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1990,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+11816,113768,1,Cash loans,F,N,N,1,58500.0,113760.0,90000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1572,1,1,1,1,0,Laborers,3.0,WEDNESDAY,1
+12062,114066,1,Cash loans,F,N,N,0,67500.0,339241.5,238500.0,Family,Working,Secondary / secondary special,Single / not married,-11085,1,1,0,1,0,Laborers,1.0,THURSDAY,1
+12074,114083,1,Cash loans,F,N,N,2,225000.0,1339884.0,1170000.0,Unaccompanied,Commercial associate,Higher education,Married,-2020,1,1,0,1,0,Accountants,4.0,FRIDAY,1
+12150,114166,1,Cash loans,F,N,N,2,135000.0,640080.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1387,1,1,1,1,0,Accountants,4.0,SATURDAY,1
+12181,114205,1,Cash loans,F,N,N,0,63000.0,183784.5,148500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1314,1,1,0,1,0,Core staff,1.0,TUESDAY,1
+12238,114271,1,Cash loans,F,N,N,0,270000.0,545040.0,450000.0,Unaccompanied,Commercial associate,Incomplete higher,Civil marriage,-2213,1,1,0,1,0,Managers,2.0,THURSDAY,1
+12367,114417,1,Cash loans,F,N,N,2,135000.0,544369.5,430672.5,"Spouse, partner",Working,Secondary / secondary special,Married,-1130,1,1,0,1,0,Sales staff,4.0,TUESDAY,2
+12609,114702,1,Cash loans,F,N,N,0,225000.0,945000.0,945000.0,Unaccompanied,Commercial associate,Higher education,Civil marriage,-4588,1,1,0,1,0,Core staff,2.0,SATURDAY,2
+12616,114710,1,Cash loans,F,N,N,0,40500.0,53910.0,45000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1557,1,1,0,1,0,Cleaning staff,2.0,TUESDAY,1
+12684,114786,1,Cash loans,F,N,N,0,112500.0,900000.0,900000.0,Unaccompanied,State servant,Incomplete higher,Married,-5194,1,1,1,1,0,Sales staff,2.0,SATURDAY,1
+12715,114819,1,Cash loans,F,N,N,0,108000.0,679500.0,679500.0,Family,Commercial associate,Incomplete higher,Married,-2757,1,1,1,1,1,Realty agents,2.0,MONDAY,1
+12728,114833,1,Cash loans,F,N,N,0,157500.0,1325475.0,1125000.0,Unaccompanied,State servant,Secondary / secondary special,Widow,-6679,1,1,1,1,0,Cleaning staff,1.0,THURSDAY,1
+12907,115044,1,Revolving loans,F,N,N,0,76500.0,135000.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1214,1,1,0,1,0,Cleaning staff,2.0,WEDNESDAY,1
+13372,115593,1,Cash loans,M,N,N,3,67500.0,1078200.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1371,1,1,1,1,0,Security staff,5.0,MONDAY,1
+13409,115634,1,Cash loans,M,N,N,2,135000.0,50940.0,45000.0,"Spouse, partner",Working,Secondary / secondary special,Married,-1342,1,1,0,1,0,Drivers,4.0,SUNDAY,1
+13431,115657,1,Cash loans,F,N,N,4,112500.0,269550.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4497,1,1,0,1,0,Laborers,6.0,SATURDAY,1
+13486,115720,1,Cash loans,M,N,N,1,180000.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2832,1,1,1,1,0,Laborers,3.0,MONDAY,1
+13509,115744,1,Cash loans,F,N,N,0,103500.0,675000.0,675000.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,-14183,1,1,0,1,0,Laborers,1.0,THURSDAY,1
+13653,115911,1,Cash loans,M,N,N,0,112500.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1138,1,1,1,1,0,Drivers,1.0,MONDAY,1
+13711,115979,1,Cash loans,M,N,N,0,76500.0,323388.0,292500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1647,1,1,0,1,0,Laborers,1.0,THURSDAY,1
+13880,116181,1,Cash loans,F,N,N,1,157500.0,490536.0,405000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1312,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+13924,116235,1,Cash loans,M,N,N,0,90000.0,562491.0,454500.0,"Spouse, partner",Working,Secondary / secondary special,Married,-1757,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+14014,116337,1,Cash loans,F,N,N,0,117000.0,900000.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2624,1,1,0,1,0,Accountants,1.0,MONDAY,1
+14131,116476,1,Cash loans,M,N,N,0,189000.0,835380.0,675000.0,Unaccompanied,State servant,Higher education,Single / not married,-1731,1,1,1,1,0,Managers,1.0,FRIDAY,1
+14159,116509,1,Cash loans,M,N,N,0,135000.0,769500.0,769500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1347,1,1,1,1,0,Drivers,2.0,THURSDAY,1
+14195,116550,1,Cash loans,F,N,N,1,72000.0,555273.0,463500.0,Unaccompanied,Working,Lower secondary,Single / not married,-2585,1,1,0,1,0,Laborers,2.0,MONDAY,1
+14270,116645,1,Cash loans,F,N,N,0,315000.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1041,1,1,0,1,0,Core staff,2.0,TUESDAY,1
+14324,116708,1,Cash loans,F,N,N,3,135000.0,679500.0,679500.0,Unaccompanied,Working,Higher education,Married,-2969,1,1,1,1,0,Core staff,5.0,SUNDAY,1
+14329,116714,1,Cash loans,F,N,N,0,112500.0,900000.0,900000.0,Unaccompanied,State servant,Incomplete higher,Married,-2394,1,1,1,1,0,Core staff,2.0,THURSDAY,1
+14371,116762,1,Cash loans,F,N,N,1,135000.0,630000.0,630000.0,Unaccompanied,Working,Higher education,Married,-4986,1,1,1,1,0,Core staff,3.0,WEDNESDAY,1
+14378,116770,1,Cash loans,F,N,N,0,81000.0,314055.0,238500.0,Unaccompanied,Working,Secondary / secondary special,Separated,-2765,1,1,0,1,0,Sales staff,1.0,THURSDAY,2
+14437,116843,1,Cash loans,F,N,N,0,112500.0,248760.0,225000.0,Unaccompanied,Working,Incomplete higher,Civil marriage,-1311,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+14605,117044,1,Cash loans,M,N,N,0,112500.0,450000.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1312,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+14642,117084,1,Cash loans,F,N,N,0,112500.0,1078200.0,900000.0,"Spouse, partner",Working,Lower secondary,Single / not married,-1881,1,1,1,1,0,Core staff,1.0,MONDAY,1
+14644,117086,1,Cash loans,F,N,N,0,135000.0,571396.5,427500.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1650,1,1,0,1,0,Sales staff,1.0,WEDNESDAY,1
+14870,117357,1,Cash loans,F,N,N,1,81000.0,315000.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3438,1,1,0,1,0,Cooking staff,3.0,THURSDAY,1
+14897,117386,1,Cash loans,F,N,N,2,270000.0,1006920.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4325,1,1,0,1,0,Sales staff,4.0,TUESDAY,1
+14944,117445,1,Cash loans,M,N,N,0,90000.0,409500.0,409500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1779,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+15071,117596,1,Cash loans,M,N,N,0,90000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1127,1,1,1,1,0,High skill tech staff,2.0,WEDNESDAY,1
+15460,118041,1,Cash loans,M,N,N,0,202500.0,397881.0,328500.0,Other_A,Working,Secondary / secondary special,Civil marriage,-1440,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+15513,118105,1,Cash loans,F,N,N,2,90000.0,781695.0,652500.0,Unaccompanied,Working,Secondary / secondary special,Married,-3226,1,1,1,1,0,Laborers,4.0,TUESDAY,1
+15682,118298,1,Cash loans,M,N,N,0,76500.0,54000.0,54000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1600,1,1,0,1,0,Sales staff,1.0,WEDNESDAY,1
+15741,118372,1,Cash loans,M,N,N,0,270000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1346,1,1,1,1,0,Drivers,2.0,WEDNESDAY,1
+15836,118477,1,Cash loans,F,N,N,1,157500.0,835380.0,675000.0,Unaccompanied,Commercial associate,Lower secondary,Married,-1596,1,1,0,1,0,Low-skill Laborers,3.0,TUESDAY,1
+15859,118505,1,Cash loans,F,N,N,0,234000.0,285723.0,238500.0,Family,Commercial associate,Secondary / secondary special,Married,-3225,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+15931,118593,1,Cash loans,M,N,N,0,202500.0,473760.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1462,1,1,1,1,0,Laborers,1.0,SATURDAY,1
+16296,119005,1,Cash loans,M,N,N,0,135000.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1376,1,1,1,1,0,Laborers,1.0,TUESDAY,1
+16424,119155,1,Cash loans,F,N,N,2,169591.5,1535553.0,1372500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3220,1,1,1,1,0,Sales staff,4.0,WEDNESDAY,1
+16520,119273,1,Cash loans,F,N,N,1,45000.0,331834.5,252000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2853,1,1,0,1,0,Cooking staff,3.0,MONDAY,1
+16568,119327,1,Cash loans,M,N,N,1,67500.0,592560.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-5618,1,1,0,1,0,Security staff,3.0,THURSDAY,1
+16593,119357,1,Cash loans,F,N,N,0,135000.0,1104997.5,990000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1651,1,1,0,1,0,Sales staff,1.0,SUNDAY,1
+16640,119411,1,Cash loans,F,N,N,0,162000.0,746280.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-4032,1,1,1,1,0,Core staff,2.0,FRIDAY,1
+16648,119420,1,Cash loans,F,N,N,0,271350.0,1024290.0,855000.0,Family,Working,Secondary / secondary special,Married,-2507,1,1,0,1,0,Laborers,2.0,SUNDAY,1
+16664,119437,1,Cash loans,F,N,N,0,180000.0,451102.5,337500.0,Unaccompanied,Working,Secondary / secondary special,Married,-2931,1,1,0,1,1,Laborers,2.0,FRIDAY,1
+16702,119479,1,Cash loans,M,N,N,0,180000.0,813195.0,702000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1460,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+16855,119656,1,Cash loans,F,N,N,0,90000.0,152820.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1306,1,1,1,1,0,Sales staff,2.0,FRIDAY,1
+16976,119800,1,Cash loans,F,N,N,0,202500.0,651600.0,562500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Widow,-1795,1,1,0,1,0,Cleaning staff,1.0,FRIDAY,1
+17190,120052,1,Cash loans,F,N,N,0,76500.0,598486.5,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1617,1,1,1,1,0,Core staff,2.0,MONDAY,1
+17242,120112,1,Cash loans,M,N,N,0,135000.0,675000.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2120,1,1,0,1,0,High skill tech staff,2.0,SUNDAY,1
+17275,120147,1,Cash loans,F,N,N,0,72000.0,454500.0,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1334,1,1,1,1,0,Cooking staff,2.0,SATURDAY,1
+17324,120204,1,Cash loans,F,N,N,2,81000.0,545040.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1318,1,1,0,1,0,Laborers,4.0,MONDAY,1
+17453,120355,1,Cash loans,M,N,N,1,157500.0,497520.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3108,1,1,0,1,0,Security staff,3.0,FRIDAY,1
+17783,120735,1,Cash loans,M,N,N,0,135000.0,1288350.0,1125000.0,Family,Working,Secondary / secondary special,Married,-4247,1,1,1,1,0,Drivers,2.0,SUNDAY,1
+17820,120780,1,Cash loans,F,N,N,0,112500.0,545040.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-1349,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+18142,121161,1,Cash loans,F,N,N,1,108000.0,454500.0,454500.0,Unaccompanied,Working,Secondary / secondary special,Separated,-4082,1,1,0,1,0,Laborers,2.0,MONDAY,1
+18240,121275,1,Cash loans,F,N,N,0,112500.0,161730.0,135000.0,Unaccompanied,Working,Higher education,Married,-1613,1,1,1,1,0,Core staff,2.0,THURSDAY,1
+18355,121410,1,Cash loans,F,N,N,1,180000.0,378117.0,342000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3412,1,1,0,1,0,Core staff,3.0,THURSDAY,1
+18548,121642,1,Cash loans,F,N,N,0,27000.0,225000.0,225000.0,Family,Working,Higher education,Civil marriage,-5067,1,1,1,1,0,Managers,2.0,MONDAY,1
+18702,121807,1,Cash loans,M,N,N,4,270000.0,247275.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3075,1,1,1,1,0,Laborers,6.0,MONDAY,1
+18709,121814,1,Cash loans,F,N,N,0,306000.0,156384.0,135000.0,Family,Working,Secondary / secondary special,Single / not married,-2583,1,1,0,1,0,Laborers,1.0,SATURDAY,1
+18934,122079,1,Cash loans,M,N,N,0,180000.0,313438.5,283500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3503,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+18996,122153,1,Cash loans,F,N,N,0,157500.0,1138500.0,1138500.0,Unaccompanied,State servant,Secondary / secondary special,Married,-7783,1,1,1,1,0,Core staff,2.0,THURSDAY,1
+19075,122247,1,Cash loans,F,N,N,2,211500.0,545040.0,450000.0,Children,Working,Secondary / secondary special,Single / not married,-2746,1,1,0,1,0,Laborers,3.0,SATURDAY,1
+19400,122628,1,Cash loans,M,N,N,3,180000.0,1535553.0,1372500.0,Unaccompanied,Working,Secondary / secondary special,Married,-3190,1,1,0,1,0,Laborers,5.0,SATURDAY,1
+19419,122651,1,Cash loans,F,N,N,0,180000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2419,1,1,1,1,0,Laborers,2.0,FRIDAY,1
+19537,122781,1,Cash loans,M,N,N,0,180000.0,720000.0,720000.0,Unaccompanied,Working,Higher education,Married,-1848,1,1,0,1,0,Laborers,2.0,MONDAY,1
+19684,122952,1,Cash loans,F,N,N,0,49500.0,78192.0,67500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1580,1,1,1,1,0,Cleaning staff,1.0,THURSDAY,1
+19714,122986,1,Cash loans,F,N,N,0,94500.0,472500.0,472500.0,Unaccompanied,Working,Secondary / secondary special,Married,-2202,1,1,0,1,0,Core staff,2.0,THURSDAY,1
+19801,123093,1,Cash loans,F,N,N,0,67500.0,576000.0,576000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3055,1,1,0,1,1,Cleaning staff,2.0,FRIDAY,0
+19862,123166,1,Cash loans,M,N,N,0,174150.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1270,1,1,0,1,0,Sales staff,1.0,WEDNESDAY,1
+20019,123353,1,Cash loans,F,N,N,0,90000.0,976077.0,922500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-6299,1,1,0,1,0,Medicine staff,2.0,MONDAY,1
+20036,123373,1,Cash loans,F,N,N,0,225000.0,993082.5,913500.0,Unaccompanied,Working,Higher education,Married,-1996,1,1,0,1,0,Managers,2.0,THURSDAY,1
+20053,123394,1,Cash loans,F,N,N,1,112500.0,808650.0,675000.0,Unaccompanied,State servant,Higher education,Married,-3514,1,1,0,1,0,Core staff,3.0,FRIDAY,1
+20166,123523,1,Cash loans,M,N,N,0,225000.0,594000.0,594000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1810,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+20168,123525,1,Cash loans,M,N,N,0,236250.0,597339.0,553500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1408,1,1,0,1,0,Security staff,1.0,MONDAY,1
+20252,123631,1,Cash loans,F,N,N,2,225000.0,1125000.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4677,1,1,1,1,0,Sales staff,4.0,MONDAY,1
+20383,123779,1,Cash loans,F,N,N,0,202500.0,755190.0,675000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,-2515,1,1,1,1,0,Waiters/barmen staff,1.0,MONDAY,1
+20452,123856,1,Cash loans,F,N,N,1,112500.0,1260702.0,1129500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2938,1,1,0,1,0,Laborers,3.0,WEDNESDAY,1
+20601,124019,1,Cash loans,M,N,N,1,112500.0,1078200.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3403,1,1,0,1,0,Security staff,3.0,MONDAY,1
+20622,124044,1,Cash loans,F,N,N,2,166500.0,781920.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1473,1,1,0,1,0,Waiters/barmen staff,4.0,SATURDAY,1
+20625,124047,1,Cash loans,M,N,N,0,157500.0,152820.0,135000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2472,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+20674,124102,1,Cash loans,F,N,N,1,135000.0,1288350.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-6608,1,1,0,1,0,Private service staff,3.0,MONDAY,1
+20939,124399,1,Cash loans,F,N,N,0,81000.0,312768.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1069,1,1,0,1,0,Laborers,2.0,MONDAY,1
+21063,124544,1,Cash loans,M,N,N,0,135000.0,634482.0,454500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1167,1,1,0,1,0,Laborers,2.0,MONDAY,1
+21107,124599,1,Cash loans,F,N,N,0,81000.0,450000.0,450000.0,Unaccompanied,Working,Incomplete higher,Single / not married,-1405,1,1,1,1,0,Laborers,1.0,FRIDAY,1
+21320,124839,1,Cash loans,F,N,N,1,180000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-6192,1,1,1,1,0,Private service staff,3.0,WEDNESDAY,1
+21355,124881,1,Cash loans,F,N,N,0,90000.0,348264.0,315000.0,Family,Working,Secondary / secondary special,Married,-1151,1,1,1,1,0,Core staff,2.0,SUNDAY,1
+21429,124966,1,Cash loans,F,N,N,1,126000.0,495000.0,495000.0,Unaccompanied,Commercial associate,Higher education,Married,-3747,1,1,0,1,0,Core staff,3.0,SUNDAY,1
+21874,125482,1,Cash loans,F,N,N,0,121500.0,1051294.5,918000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1221,1,1,0,1,0,Security staff,1.0,THURSDAY,2
+21888,125498,1,Cash loans,F,N,N,0,157500.0,426600.0,337500.0,Unaccompanied,Working,Higher education,Married,-3672,1,1,0,1,0,HR staff,2.0,FRIDAY,2
+22102,125739,1,Cash loans,M,N,N,0,157500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1496,1,1,0,1,0,Low-skill Laborers,2.0,FRIDAY,1
+22132,125773,1,Cash loans,M,N,N,0,157500.0,1042560.0,900000.0,Family,Commercial associate,Higher education,Single / not married,-1081,1,1,0,1,0,Core staff,1.0,WEDNESDAY,1
+22220,125870,1,Cash loans,M,N,N,0,157500.0,647046.0,463500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1609,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+22381,126050,1,Cash loans,F,N,N,0,67500.0,135000.0,135000.0,Unaccompanied,Working,Higher education,Married,-11106,1,1,1,1,0,Laborers,2.0,THURSDAY,1
+22439,126112,1,Cash loans,M,N,N,0,135000.0,808650.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Widow,-1283,1,1,0,1,0,Laborers,1.0,TUESDAY,1
+22470,126147,1,Cash loans,F,N,N,0,157500.0,545040.0,450000.0,"Spouse, partner",Working,Secondary / secondary special,Married,-7870,1,1,0,1,0,Cleaning staff,2.0,THURSDAY,1
+22573,126269,1,Cash loans,F,N,N,0,90000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1337,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+22590,126287,1,Cash loans,M,N,N,1,270000.0,679500.0,679500.0,Unaccompanied,Working,Lower secondary,Married,-1317,1,1,1,1,0,Security staff,3.0,TUESDAY,1
+22690,126401,1,Cash loans,M,N,N,0,135000.0,550980.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1051,1,1,0,1,1,Laborers,1.0,WEDNESDAY,1
+22802,126534,1,Cash loans,F,N,N,1,225000.0,1546020.0,1350000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-7500,1,1,1,1,0,Medicine staff,3.0,TUESDAY,1
+22851,126590,1,Cash loans,M,N,N,0,135000.0,675000.0,675000.0,Family,Working,Secondary / secondary special,Married,-1647,1,1,1,1,0,Core staff,2.0,SATURDAY,1
+23106,126889,1,Cash loans,F,N,N,0,202500.0,640080.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2257,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+23246,127046,1,Cash loans,M,N,N,1,180000.0,693301.5,598500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,-1764,1,1,0,1,0,Drivers,2.0,MONDAY,1
+23287,127091,1,Cash loans,F,N,N,1,112500.0,270000.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1875,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+23298,127104,1,Cash loans,F,N,N,1,112500.0,138204.0,99000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1152,1,1,0,1,0,Sales staff,3.0,THURSDAY,1
+23371,127194,1,Cash loans,M,N,N,0,112500.0,277969.5,229500.0,Unaccompanied,Commercial associate,Incomplete higher,Single / not married,-1230,1,1,0,1,0,Core staff,1.0,TUESDAY,1
+23881,127782,1,Cash loans,F,N,N,9,180000.0,640080.0,450000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,-1042,1,1,1,1,0,Sales staff,10.0,THURSDAY,1
+24305,128270,1,Cash loans,F,N,N,0,67500.0,277969.5,229500.0,Family,Working,Higher education,Single / not married,-1501,1,1,0,1,0,Managers,1.0,MONDAY,1
+24310,128277,1,Cash loans,F,N,N,1,67500.0,457834.5,378000.0,Family,Commercial associate,Secondary / secondary special,Married,-2053,1,1,0,1,0,Sales staff,3.0,FRIDAY,1
+24394,128375,1,Cash loans,F,N,N,1,126000.0,755190.0,675000.0,"Spouse, partner",Working,Secondary / secondary special,Married,-1158,1,1,0,1,0,Sales staff,3.0,MONDAY,1
+24433,128419,1,Cash loans,F,N,N,0,67500.0,327024.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1493,1,1,0,1,0,Medicine staff,2.0,WEDNESDAY,1
+24600,128620,1,Cash loans,F,N,N,0,157500.0,67500.0,67500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2542,1,1,1,1,0,Sales staff,2.0,TUESDAY,1
+24662,128685,1,Cash loans,M,N,N,1,157500.0,270000.0,270000.0,Family,Working,Higher education,Married,-1046,1,1,0,1,0,Core staff,3.0,WEDNESDAY,1
+24687,128715,1,Cash loans,F,N,N,1,225000.0,675000.0,675000.0,Unaccompanied,Working,Higher education,Married,-1233,1,1,0,1,0,Accountants,3.0,TUESDAY,1
+24881,128936,1,Cash loans,F,N,N,0,112500.0,675000.0,675000.0,Unaccompanied,Commercial associate,Higher education,Married,-1599,1,1,0,1,0,Private service staff,2.0,WEDNESDAY,1
+24934,128999,1,Cash loans,F,N,N,0,67500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1066,1,1,1,1,0,Laborers,2.0,THURSDAY,1
+25082,129173,1,Cash loans,M,N,N,0,67500.0,172512.0,144000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2077,1,1,1,1,0,Laborers,2.0,FRIDAY,1
+25326,129457,1,Cash loans,F,N,N,0,112500.0,407520.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1933,1,1,0,1,0,Drivers,2.0,FRIDAY,1
+25432,129582,1,Cash loans,F,N,N,3,90000.0,835380.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-6570,1,1,0,1,0,Laborers,5.0,WEDNESDAY,1
+25749,129936,1,Cash loans,M,N,N,0,270000.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3977,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+25876,130087,1,Cash loans,F,N,N,1,157500.0,781920.0,675000.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,-7934,1,1,1,1,0,High skill tech staff,2.0,TUESDAY,1
+25877,130088,1,Cash loans,F,N,N,2,135000.0,277969.5,229500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1638,1,1,0,1,0,Laborers,4.0,TUESDAY,1
+25885,130096,1,Revolving loans,F,N,N,1,112500.0,202500.0,202500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1344,1,1,0,1,0,Sales staff,3.0,FRIDAY,0
+26104,130362,1,Cash loans,M,N,N,1,135000.0,308461.5,279000.0,Family,Working,Higher education,Married,-1448,1,1,1,1,0,Laborers,3.0,SATURDAY,1
+26270,130554,1,Cash loans,F,N,N,1,135000.0,152820.0,135000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-1607,1,1,0,1,0,Sales staff,3.0,MONDAY,1
+26339,130630,1,Cash loans,F,N,N,2,135000.0,1288350.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1166,1,1,0,1,0,Core staff,4.0,WEDNESDAY,1
+26467,130770,1,Cash loans,F,N,N,1,99000.0,454500.0,454500.0,"Spouse, partner",Working,Secondary / secondary special,Civil marriage,-4260,1,1,1,1,0,Core staff,3.0,SATURDAY,1
+26639,130967,1,Cash loans,F,N,N,1,90000.0,641529.0,535500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,-2483,1,1,1,1,0,Cleaning staff,2.0,FRIDAY,1
+26748,131094,1,Cash loans,F,N,N,0,360000.0,900000.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1035,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+26803,131154,1,Cash loans,F,N,N,2,90000.0,675000.0,675000.0,Family,Working,Secondary / secondary special,Married,-1850,1,1,1,1,0,Cooking staff,4.0,TUESDAY,1
+26862,131220,1,Cash loans,F,N,N,1,90000.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1699,1,1,1,1,0,Cooking staff,3.0,TUESDAY,1
+26926,131296,1,Cash loans,F,N,N,0,135000.0,916470.0,765000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1693,1,1,0,1,0,Cleaning staff,1.0,THURSDAY,1
+27043,131434,1,Cash loans,F,N,N,0,157500.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1362,1,1,1,1,0,Laborers,1.0,MONDAY,1
+27085,131482,1,Cash loans,F,N,N,0,202500.0,1675413.0,1530000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-3998,1,1,0,1,0,Medicine staff,2.0,WEDNESDAY,1
+27716,132226,1,Cash loans,F,N,N,1,157500.0,199008.0,180000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1548,1,1,1,1,0,Laborers,3.0,TUESDAY,1
+27815,132335,1,Cash loans,M,N,N,0,54000.0,170640.0,135000.0,Family,Working,Secondary / secondary special,Married,-1875,1,1,0,1,0,Security staff,2.0,WEDNESDAY,1
+27990,132538,1,Cash loans,F,N,N,1,225000.0,2125953.0,1984500.0,Unaccompanied,Commercial associate,Higher education,Civil marriage,-2833,1,1,0,1,0,Managers,3.0,WEDNESDAY,1
+27994,132542,1,Cash loans,F,N,N,1,135000.0,301464.0,238500.0,Unaccompanied,Working,Secondary / secondary special,Married,-2613,1,1,0,1,0,Laborers,3.0,SUNDAY,1
+28003,132551,1,Cash loans,F,N,N,0,202500.0,1661418.0,1485000.0,Unaccompanied,State servant,Secondary / secondary special,Civil marriage,-2844,1,1,1,1,0,Medicine staff,2.0,SUNDAY,1
+28049,132603,1,Cash loans,F,N,N,0,193500.0,900000.0,900000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2386,1,1,1,1,0,Laborers,2.0,MONDAY,1
+28392,132999,1,Cash loans,M,N,N,0,136800.0,1436850.0,1125000.0,Family,Working,Secondary / secondary special,Married,-2432,1,1,1,1,0,Security staff,2.0,SATURDAY,2
+28561,133194,1,Cash loans,F,N,N,1,63000.0,191880.0,180000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-2110,1,1,1,1,0,Waiters/barmen staff,2.0,THURSDAY,1
+28592,133225,1,Cash loans,F,N,N,3,90000.0,335592.0,265500.0,Unaccompanied,Working,Lower secondary,Married,-1059,1,1,0,1,0,Laborers,5.0,THURSDAY,1
+28887,133565,1,Cash loans,F,N,N,0,135000.0,696150.0,562500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2339,1,1,0,1,0,Laborers,2.0,MONDAY,1
+28890,133568,1,Cash loans,F,N,N,0,90000.0,592560.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3029,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+28936,133621,1,Cash loans,F,N,N,1,67500.0,460858.5,324000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1469,1,1,0,1,0,Laborers,3.0,SATURDAY,1
+29007,133703,1,Cash loans,F,N,N,0,121500.0,846000.0,846000.0,Unaccompanied,Working,Secondary / secondary special,Married,-5776,1,1,0,1,0,Laborers,2.0,SUNDAY,1
+29182,133897,1,Cash loans,F,N,N,1,180000.0,454500.0,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1333,1,1,0,1,0,Core staff,3.0,FRIDAY,1
+29185,133900,1,Cash loans,F,N,N,1,90000.0,192874.5,166500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-3529,1,1,0,1,0,Medicine staff,2.0,TUESDAY,1
+29252,133978,1,Cash loans,M,N,N,0,180000.0,771493.5,666000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1107,1,1,0,1,0,Managers,1.0,THURSDAY,0
+29448,134193,1,Cash loans,F,N,N,0,225000.0,386977.5,319500.0,Unaccompanied,Working,Secondary / secondary special,Married,-2679,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+29479,134228,1,Cash loans,M,N,N,0,270000.0,599472.0,517500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1819,1,1,0,1,0,High skill tech staff,2.0,SUNDAY,1
+29608,134378,1,Cash loans,M,N,N,0,157500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-6932,1,1,1,1,1,Laborers,2.0,FRIDAY,1
+29705,134487,1,Cash loans,M,N,N,0,225000.0,224136.0,198000.0,Other_B,Working,Secondary / secondary special,Single / not married,-1373,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+29717,134502,1,Cash loans,M,N,N,0,90000.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1689,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+29992,134818,1,Cash loans,F,N,N,0,90000.0,1080000.0,1080000.0,Unaccompanied,Working,Higher education,Single / not married,-3878,1,1,0,1,0,Laborers,1.0,TUESDAY,1
+30134,134980,1,Cash loans,M,N,N,0,135000.0,675000.0,675000.0,Unaccompanied,Working,Higher education,Married,-1970,1,1,1,1,0,Core staff,2.0,WEDNESDAY,1
+30229,135088,1,Cash loans,F,N,N,0,90000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1760,1,1,1,1,0,Cleaning staff,1.0,SUNDAY,1
+30466,135354,1,Cash loans,M,N,N,1,207000.0,1045854.0,873000.0,Unaccompanied,State servant,Higher education,Single / not married,-3432,1,1,1,1,0,Core staff,2.0,WEDNESDAY,1
+30492,135388,1,Cash loans,F,N,N,2,67500.0,343800.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2939,1,1,0,1,0,Laborers,4.0,MONDAY,1
+30525,135428,1,Cash loans,F,N,N,0,112500.0,646920.0,540000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1276,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+30597,135511,1,Cash loans,M,N,N,0,117000.0,582804.0,463500.0,Unaccompanied,Working,Higher education,Married,-1304,1,1,0,1,0,Laborers,2.0,MONDAY,1
+30618,135537,1,Cash loans,M,N,N,0,112500.0,148365.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1574,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+30709,135642,1,Cash loans,F,N,N,0,112500.0,314100.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1056,1,1,0,1,0,Sales staff,2.0,THURSDAY,1
+31319,136341,1,Cash loans,M,N,N,0,202500.0,536917.5,463500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1767,1,1,0,1,0,Laborers,1.0,THURSDAY,1
+31401,136431,1,Cash loans,F,N,N,0,103500.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2568,1,1,1,1,0,Laborers,1.0,SUNDAY,1
+31471,136510,1,Cash loans,F,N,N,0,180000.0,1575000.0,1575000.0,Family,Working,Higher education,Married,-1618,1,1,0,1,1,Core staff,2.0,TUESDAY,1
+31477,136516,1,Cash loans,M,N,N,0,225000.0,550980.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2163,1,1,0,1,0,Core staff,2.0,FRIDAY,1
+31786,136870,1,Cash loans,F,N,N,2,81000.0,640080.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-6387,1,1,0,1,0,Medicine staff,4.0,WEDNESDAY,1
+31872,136964,1,Cash loans,F,N,N,2,99000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1409,1,1,0,1,0,Laborers,4.0,MONDAY,1
+31885,136980,1,Cash loans,F,N,N,0,292500.0,781920.0,675000.0,Family,Working,Higher education,Married,-11086,1,1,0,1,0,Laborers,2.0,MONDAY,1
+31965,137075,1,Cash loans,F,N,N,2,135000.0,1078200.0,900000.0,Family,State servant,Higher education,Married,-2358,1,1,1,1,0,Core staff,4.0,MONDAY,1
+31975,137085,1,Cash loans,F,N,N,0,67500.0,639000.0,639000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1077,1,1,0,1,0,Cooking staff,2.0,THURSDAY,1
+32063,137179,1,Cash loans,F,N,N,0,135000.0,601677.0,423000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1770,1,1,0,1,0,Accountants,2.0,THURSDAY,1
+32074,137190,1,Cash loans,F,N,N,0,99000.0,229500.0,229500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2258,1,1,1,1,0,Sales staff,1.0,THURSDAY,1
+32408,137566,1,Cash loans,M,N,N,0,157500.0,521280.0,450000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,-1046,1,1,0,1,0,Cooking staff,1.0,TUESDAY,1
+32574,137759,1,Cash loans,M,N,N,1,180000.0,339241.5,238500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1528,1,1,0,1,0,Security staff,3.0,FRIDAY,1
+32777,137986,1,Cash loans,F,N,N,0,135000.0,1078200.0,900000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1295,1,1,0,1,0,Core staff,2.0,TUESDAY,1
+32869,138094,1,Cash loans,F,N,N,1,225000.0,942300.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2688,1,1,0,1,0,Sales staff,3.0,WEDNESDAY,1
+32964,138206,1,Cash loans,F,N,N,0,49500.0,343800.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2469,1,1,0,1,1,Cleaning staff,2.0,WEDNESDAY,1
+33021,138266,1,Cash loans,M,N,N,0,112500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1529,1,1,1,1,0,Drivers,2.0,THURSDAY,1
+33106,138363,1,Revolving loans,F,N,N,0,157500.0,180000.0,180000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2695,1,1,0,1,0,Laborers,1.0,WEDNESDAY,0
+33179,138443,1,Revolving loans,F,N,N,1,121500.0,382500.0,382500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1213,1,1,0,1,0,Laborers,3.0,WEDNESDAY,0
+33293,138572,1,Cash loans,F,N,N,0,94500.0,387000.0,387000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1411,1,1,1,1,0,Cleaning staff,2.0,TUESDAY,1
+33522,138832,1,Cash loans,M,N,N,1,270000.0,900000.0,900000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-5422,1,1,1,1,0,Drivers,3.0,THURSDAY,1
+33779,139135,1,Cash loans,M,N,N,0,112500.0,916470.0,765000.0,Children,Commercial associate,Secondary / secondary special,Single / not married,-6771,1,1,0,1,0,Laborers,1.0,WEDNESDAY,2
+33801,139158,1,Cash loans,M,N,N,1,112500.0,239850.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1164,1,1,0,1,0,Laborers,3.0,TUESDAY,1
+33810,139168,1,Cash loans,M,N,N,0,135000.0,408780.0,337500.0,Family,Working,Secondary / secondary special,Single / not married,-2232,1,1,0,1,0,Security staff,1.0,WEDNESDAY,1
+33827,139194,1,Cash loans,M,N,N,0,157500.0,162000.0,162000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2655,1,1,1,1,0,Laborers,2.0,FRIDAY,1
+33881,139261,1,Cash loans,F,N,N,0,112500.0,314100.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1472,1,1,0,1,0,Realty agents,1.0,WEDNESDAY,1
+34062,139469,1,Cash loans,F,N,N,2,49500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-7255,1,1,1,1,0,Core staff,3.0,SUNDAY,1
+34100,139509,1,Cash loans,F,N,N,1,72990.0,373500.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2588,1,1,1,1,0,Laborers,2.0,FRIDAY,2
+34105,139514,1,Cash loans,F,N,N,0,126000.0,307557.0,265500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-7878,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+34159,139585,1,Cash loans,F,N,N,0,144000.0,149256.0,135000.0,Unaccompanied,Commercial associate,Higher education,Separated,-1721,1,1,1,1,0,Core staff,1.0,THURSDAY,1
+34450,139919,1,Revolving loans,F,N,N,2,238500.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2995,1,1,0,1,0,Sales staff,4.0,WEDNESDAY,0
+34573,140065,1,Cash loans,F,N,N,1,81000.0,753840.0,540000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1198,1,1,0,1,0,Sales staff,3.0,FRIDAY,1
+34669,140175,1,Cash loans,M,N,N,0,306000.0,855000.0,855000.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,-2271,1,1,0,1,0,Managers,1.0,WEDNESDAY,1
+34866,140401,1,Cash loans,F,N,N,1,193500.0,283500.0,283500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1046,1,1,1,1,0,Managers,3.0,WEDNESDAY,1
+34877,140414,1,Cash loans,F,N,N,0,36000.0,66222.0,58500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,-5254,1,1,0,1,0,Security staff,1.0,SATURDAY,1
+35012,140568,1,Cash loans,F,N,N,0,135000.0,633681.0,445500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1866,1,1,1,1,0,Sales staff,2.0,SATURDAY,1
+35103,140663,1,Cash loans,F,N,N,0,211500.0,364230.0,337500.0,Unaccompanied,State servant,Secondary / secondary special,Civil marriage,-1355,1,1,0,1,0,Private service staff,2.0,WEDNESDAY,1
+35206,140785,1,Revolving loans,F,N,N,0,180000.0,405000.0,405000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1692,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+35321,140914,1,Cash loans,F,N,N,0,81000.0,355536.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1300,1,1,1,1,0,Laborers,2.0,THURSDAY,2
+35435,141044,1,Cash loans,M,N,N,2,202500.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4699,1,1,0,1,0,Laborers,4.0,FRIDAY,1
+35480,141098,1,Cash loans,M,N,N,0,360000.0,450000.0,450000.0,Unaccompanied,Commercial associate,Higher education,Civil marriage,-1548,1,1,0,1,0,Managers,2.0,FRIDAY,1
+35569,141195,1,Cash loans,F,N,N,0,49500.0,320382.0,229500.0,"Spouse, partner",Working,Higher education,Married,-2914,1,1,1,1,0,Laborers,2.0,THURSDAY,1
+35728,141380,1,Cash loans,F,N,N,0,157500.0,675000.0,675000.0,Unaccompanied,State servant,Secondary / secondary special,Widow,-3342,1,1,0,1,0,Core staff,1.0,SATURDAY,1
+35828,141499,1,Cash loans,F,N,N,1,90000.0,298512.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2299,1,1,0,1,0,Cooking staff,3.0,MONDAY,1
+35845,141521,1,Cash loans,F,N,N,1,81000.0,203760.0,180000.0,Unaccompanied,Working,Higher education,Married,-2874,1,1,1,1,0,Sales staff,3.0,THURSDAY,1
+35964,141665,1,Cash loans,M,N,N,0,135000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2566,1,1,1,1,0,Drivers,2.0,THURSDAY,1
+35994,141696,1,Cash loans,F,N,N,0,103500.0,296280.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1712,1,1,1,1,0,Cleaning staff,2.0,SATURDAY,1
+36134,141849,1,Cash loans,F,N,N,0,112500.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1669,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+36233,141955,1,Cash loans,M,N,N,0,135000.0,1255680.0,1125000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,-3422,1,1,0,1,0,Laborers,1.0,THURSDAY,1
+36281,142011,1,Cash loans,M,N,N,0,315000.0,808650.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1044,1,1,0,1,0,Managers,2.0,THURSDAY,1
+36352,142096,1,Cash loans,F,N,N,1,337500.0,1125000.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4456,1,1,1,1,0,Laborers,3.0,FRIDAY,1
+36443,142207,1,Cash loans,F,N,N,0,112500.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4166,1,1,0,1,0,Laborers,2.0,SUNDAY,1
+36558,142340,1,Cash loans,F,N,N,0,540000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3211,1,1,0,1,0,Managers,2.0,THURSDAY,1
+36677,142480,1,Cash loans,M,N,N,0,247500.0,312768.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3226,1,1,1,1,0,Drivers,2.0,FRIDAY,1
+36740,142553,1,Cash loans,M,N,N,1,76500.0,258709.5,234000.0,"Spouse, partner",Working,Secondary / secondary special,Married,-3609,1,1,0,1,0,Laborers,3.0,TUESDAY,1
+36823,142646,1,Cash loans,M,N,N,0,157500.0,840996.0,702000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2111,1,1,0,1,0,Drivers,1.0,TUESDAY,1
+37034,142897,1,Cash loans,F,N,N,2,90000.0,348264.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4205,1,1,0,1,0,Cleaning staff,4.0,TUESDAY,1
+37272,143177,1,Cash loans,M,N,N,0,135000.0,248760.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1296,1,1,1,1,0,Laborers,1.0,FRIDAY,1
+37285,143194,1,Cash loans,F,N,N,2,144000.0,281493.0,243000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1088,1,1,0,1,0,Sales staff,4.0,WEDNESDAY,1
+37455,143384,1,Cash loans,F,N,N,1,180000.0,659610.0,472500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-3319,1,1,0,1,0,Low-skill Laborers,2.0,FRIDAY,1
+37571,143518,1,Cash loans,F,N,N,0,135000.0,630000.0,630000.0,Unaccompanied,Commercial associate,Higher education,Married,-1804,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+37579,143526,1,Cash loans,M,N,N,0,112500.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-7878,1,1,0,1,0,Drivers,2.0,THURSDAY,1
+37662,143629,1,Cash loans,F,N,N,1,67500.0,360000.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1614,1,1,0,1,0,Cooking staff,3.0,SATURDAY,1
+37663,143630,1,Cash loans,F,N,N,1,135000.0,477000.0,477000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-6008,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+37912,143910,1,Cash loans,F,N,N,0,148500.0,412560.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1863,1,1,0,1,0,Secretaries,2.0,WEDNESDAY,2
+37922,143920,1,Cash loans,F,N,N,2,247500.0,2447937.0,2254500.0,Unaccompanied,Working,Higher education,Civil marriage,-2852,1,1,1,1,0,High skill tech staff,4.0,WEDNESDAY,1
+37949,143952,1,Cash loans,F,N,N,0,157500.0,1027327.5,945000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1708,1,1,0,1,0,Managers,2.0,WEDNESDAY,1
+38131,144155,1,Cash loans,F,N,N,0,67500.0,450000.0,450000.0,Family,State servant,Secondary / secondary special,Married,-2813,1,1,1,1,0,Medicine staff,2.0,TUESDAY,1
+38179,144213,1,Cash loans,F,N,N,0,157500.0,427500.0,427500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1678,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+38240,144283,1,Cash loans,F,N,N,0,85500.0,521280.0,450000.0,Family,Working,Secondary / secondary special,Single / not married,-2082,1,1,0,1,0,Laborers,1.0,MONDAY,1
+38271,144317,1,Cash loans,F,N,N,0,1125000.0,1006920.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2048,1,1,0,1,0,Managers,2.0,THURSDAY,1
+38502,144583,1,Cash loans,F,N,N,1,67500.0,1067940.0,765000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3006,1,1,0,1,0,Laborers,3.0,FRIDAY,1
+38581,144687,1,Cash loans,F,N,N,0,180000.0,53910.0,45000.0,Family,Working,Secondary / secondary special,Single / not married,-3015,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+38645,144760,1,Cash loans,F,N,N,0,130500.0,808650.0,675000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1962,1,1,0,1,0,Cooking staff,2.0,FRIDAY,1
+38716,144844,1,Revolving loans,F,N,N,0,112500.0,270000.0,270000.0,Unaccompanied,Working,Higher education,Single / not married,-3533,1,1,0,1,0,Laborers,1.0,SUNDAY,0
+39132,145318,1,Cash loans,F,N,N,1,90000.0,323172.0,211500.0,Unaccompanied,Working,Secondary / secondary special,Married,-2903,1,1,0,1,0,Laborers,3.0,WEDNESDAY,1
+39197,145396,1,Revolving loans,F,N,N,0,180000.0,337500.0,337500.0,Unaccompanied,Working,Secondary / secondary special,Married,-3268,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+39305,145519,1,Cash loans,F,N,N,0,157500.0,755190.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1859,1,1,0,1,0,Laborers,1.0,SUNDAY,1
+39315,145531,1,Cash loans,M,N,N,0,225000.0,450000.0,450000.0,Unaccompanied,Working,Incomplete higher,Married,-2707,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+39316,145532,1,Cash loans,F,N,N,1,63000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3525,1,1,0,1,0,Cooking staff,3.0,WEDNESDAY,1
+39344,145564,1,Revolving loans,M,N,N,0,157500.0,180000.0,180000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1075,1,1,0,1,0,Security staff,2.0,MONDAY,0
+39400,145626,1,Cash loans,F,N,N,0,225000.0,848745.0,675000.0,Unaccompanied,Working,Higher education,Married,-2176,1,1,0,1,1,Managers,2.0,THURSDAY,1
+39442,145673,1,Revolving loans,M,N,N,1,81000.0,135000.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3529,1,1,0,1,0,Laborers,3.0,TUESDAY,0
+39476,145712,1,Cash loans,F,N,N,1,112500.0,180000.0,180000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3045,1,1,0,1,0,Laborers,3.0,SATURDAY,1
+39488,145726,1,Cash loans,F,N,N,2,94500.0,592560.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1311,1,1,0,1,0,Sales staff,4.0,THURSDAY,1
+39646,145900,1,Cash loans,M,N,N,1,90000.0,808650.0,675000.0,Family,Working,Higher education,Married,-1637,1,1,0,1,0,Drivers,3.0,THURSDAY,1
+39693,145956,1,Cash loans,F,N,N,0,157500.0,261000.0,261000.0,Unaccompanied,Working,Incomplete higher,Married,-7416,1,1,0,1,0,Cleaning staff,2.0,WEDNESDAY,1
+40060,146403,1,Cash loans,F,N,N,0,67500.0,178290.0,157500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1232,1,1,1,1,0,Sales staff,2.0,FRIDAY,1
+40078,146425,1,Cash loans,F,N,N,0,67500.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3824,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+40131,146483,1,Cash loans,F,N,N,1,135000.0,1019299.5,837000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2389,1,1,0,1,0,Sales staff,3.0,FRIDAY,1
+40247,146624,1,Cash loans,F,N,N,0,180000.0,1350000.0,1350000.0,"Spouse, partner",State servant,Higher education,Married,-2050,1,1,0,1,0,Core staff,2.0,THURSDAY,1
+40253,146630,1,Cash loans,F,N,N,0,85500.0,454500.0,454500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1304,1,1,1,1,0,Sales staff,2.0,WEDNESDAY,1
+40254,146632,1,Cash loans,F,N,N,0,144000.0,1288350.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4416,1,1,0,1,0,Sales staff,2.0,THURSDAY,1
+40284,146667,1,Cash loans,M,N,N,0,112500.0,135000.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-3773,1,1,0,1,0,Laborers,1.0,SATURDAY,1
+40387,146784,1,Cash loans,F,N,N,0,90000.0,983299.5,904500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1565,1,1,0,1,0,Accountants,2.0,WEDNESDAY,1
+40770,147214,1,Cash loans,F,N,N,1,112500.0,1046142.0,913500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2122,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+41001,147484,1,Cash loans,M,N,N,0,157500.0,640080.0,450000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-3687,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+41048,147536,1,Cash loans,F,N,N,0,202500.0,2013840.0,1800000.0,Unaccompanied,State servant,Higher education,Married,-6478,1,1,0,1,0,Managers,2.0,FRIDAY,0
+41300,147820,1,Cash loans,M,N,N,1,81000.0,119893.5,103500.0,Unaccompanied,Working,Higher education,Married,-4245,1,1,0,1,0,Secretaries,3.0,THURSDAY,1
+41351,147877,1,Cash loans,F,N,N,1,135000.0,450000.0,450000.0,Unaccompanied,Working,Higher education,Separated,-1562,1,1,1,1,0,Laborers,2.0,THURSDAY,1
+41768,148360,1,Cash loans,M,N,N,0,225000.0,672187.5,634500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1266,1,1,0,1,0,Managers,1.0,THURSDAY,1
+41860,148469,1,Cash loans,M,N,N,0,90000.0,207396.0,157500.0,Other_B,Working,Secondary / secondary special,Single / not married,-1839,1,1,0,1,0,Drivers,1.0,TUESDAY,1
+41919,148535,1,Cash loans,M,N,N,0,135000.0,450000.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3734,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+42018,148652,1,Cash loans,F,N,N,0,180000.0,598401.0,499500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3508,1,1,0,1,0,Laborers,2.0,MONDAY,1
+42021,148655,1,Cash loans,F,N,N,0,90000.0,450000.0,450000.0,Unaccompanied,Working,Lower secondary,Married,-1439,1,1,1,1,0,Laborers,2.0,MONDAY,1
+42247,148902,1,Cash loans,M,N,N,0,189000.0,761872.5,675000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2003,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+42547,149244,1,Cash loans,M,N,N,0,225000.0,339241.5,238500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1328,1,1,0,1,0,Drivers,2.0,WEDNESDAY,1
+42590,149296,1,Cash loans,F,N,N,0,112500.0,414792.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1713,1,1,0,1,0,Sales staff,2.0,SATURDAY,1
+42626,149343,1,Cash loans,F,N,N,2,117000.0,385164.0,292500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1111,1,1,0,1,0,Cleaning staff,4.0,TUESDAY,1
+42634,149353,1,Cash loans,F,N,N,0,90000.0,1125000.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4706,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+42761,149504,1,Cash loans,M,N,N,0,202500.0,675000.0,675000.0,Unaccompanied,Commercial associate,Higher education,Married,-1931,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+42802,149553,1,Cash loans,M,N,N,0,135000.0,450000.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1667,1,1,1,1,0,Laborers,2.0,FRIDAY,1
+42825,149580,1,Cash loans,M,N,N,0,135000.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1096,1,1,0,1,0,Waiters/barmen staff,1.0,WEDNESDAY,1
+42862,149624,1,Cash loans,M,N,N,0,81000.0,298512.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,-6264,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+42894,149658,1,Cash loans,F,N,N,0,135000.0,595903.5,481500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2045,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+42962,149741,1,Cash loans,F,N,N,0,117000.0,417024.0,360000.0,"Spouse, partner",Working,Incomplete higher,Married,-2125,1,1,1,1,0,Security staff,2.0,FRIDAY,1
+43105,149897,1,Cash loans,F,N,N,2,108000.0,1350000.0,1350000.0,Unaccompanied,State servant,Higher education,Married,-4366,1,1,0,1,0,Core staff,4.0,THURSDAY,1
+43225,150033,1,Cash loans,F,N,N,1,157500.0,563269.5,396000.0,Family,Commercial associate,Secondary / secondary special,Civil marriage,-1590,1,1,0,1,0,Laborers,3.0,WEDNESDAY,1
+43267,150080,1,Cash loans,F,N,N,1,90000.0,101880.0,90000.0,Family,Working,Secondary / secondary special,Married,-3541,1,1,0,1,0,Medicine staff,3.0,FRIDAY,1
+43291,150105,1,Cash loans,F,N,N,0,67500.0,108072.0,85500.0,Unaccompanied,Working,Lower secondary,Single / not married,-2230,1,1,0,1,0,Laborers,1.0,MONDAY,1
+43322,150147,1,Cash loans,M,N,N,0,135000.0,592560.0,450000.0,Family,Working,Secondary / secondary special,Single / not married,-1465,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+43373,150209,1,Cash loans,M,N,N,0,112500.0,253737.0,229500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2734,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+43651,150530,1,Revolving loans,M,N,N,0,225000.0,540000.0,540000.0,Unaccompanied,Working,Higher education,Married,-1596,1,1,0,1,0,Drivers,2.0,THURSDAY,0
+43896,150832,1,Cash loans,F,N,N,0,162000.0,900000.0,900000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2973,1,1,0,1,0,Sales staff,2.0,SUNDAY,1
+43942,150885,1,Cash loans,F,N,N,2,112500.0,781920.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-5527,1,1,0,1,0,Cooking staff,3.0,THURSDAY,1
+44237,151243,1,Cash loans,F,N,N,0,148500.0,545040.0,450000.0,Unaccompanied,Working,Higher education,Married,-1220,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+44354,151384,1,Cash loans,F,N,N,0,90000.0,450000.0,450000.0,Unaccompanied,Working,Higher education,Married,-1638,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+44374,151407,1,Cash loans,F,N,N,1,135000.0,269550.0,225000.0,Family,Commercial associate,Secondary / secondary special,Single / not married,-2124,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+45032,152166,1,Cash loans,M,N,N,0,157500.0,497520.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2877,1,1,1,1,1,Private service staff,2.0,FRIDAY,1
+45250,152414,1,Cash loans,F,N,N,1,135000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2966,1,1,0,1,0,Laborers,3.0,WEDNESDAY,1
+45469,152663,1,Cash loans,F,N,N,0,157500.0,1283197.5,1120500.0,Unaccompanied,Working,Secondary / secondary special,Married,-3807,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+45519,152718,1,Cash loans,F,N,N,2,112500.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2196,1,1,1,1,0,High skill tech staff,4.0,WEDNESDAY,1
+45624,152847,1,Cash loans,M,N,N,0,90000.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-8974,1,1,1,1,0,Laborers,2.0,THURSDAY,1
+45894,153173,1,Cash loans,M,N,N,0,225000.0,450000.0,450000.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,-2016,1,1,0,1,0,Laborers,1.0,TUESDAY,1
+45911,153191,1,Cash loans,M,N,N,0,135000.0,314100.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2636,1,1,0,1,0,Cooking staff,2.0,MONDAY,1
+46065,153370,1,Cash loans,F,N,N,0,225000.0,497520.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1123,1,1,1,1,0,Core staff,2.0,THURSDAY,1
+46680,154073,1,Cash loans,F,N,N,0,162000.0,601470.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1302,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+46725,154124,1,Cash loans,M,N,N,1,270000.0,473760.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1579,1,1,1,1,0,Drivers,3.0,FRIDAY,1
+46953,154386,1,Cash loans,M,N,N,2,135000.0,675000.0,675000.0,Unaccompanied,Working,Higher education,Married,-3736,1,1,1,1,0,Managers,4.0,THURSDAY,1
+47036,154481,1,Cash loans,M,N,N,0,81000.0,343800.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1702,1,1,0,1,0,Laborers,1.0,TUESDAY,1
+47257,154723,1,Cash loans,F,N,N,2,83700.0,101880.0,90000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-2814,1,1,1,1,0,Medicine staff,4.0,THURSDAY,1
+47293,154765,1,Cash loans,F,N,N,0,90000.0,314100.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1927,1,1,0,1,0,Sales staff,2.0,WEDNESDAY,1
+47334,154810,1,Cash loans,F,N,N,0,112500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2632,1,1,1,1,0,Laborers,1.0,FRIDAY,1
+47359,154841,1,Cash loans,M,N,N,1,112500.0,550080.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1738,1,1,0,1,0,Sales staff,3.0,MONDAY,2
+47430,154926,1,Cash loans,F,N,N,0,135000.0,508495.5,454500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-3057,1,1,0,1,0,Cleaning staff,1.0,FRIDAY,1
+47615,155157,1,Cash loans,F,N,N,1,81000.0,225000.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1391,1,1,1,1,0,Accountants,3.0,TUESDAY,1
+47896,155471,1,Cash loans,F,N,N,1,112500.0,905688.0,756000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2561,1,1,1,1,0,Medicine staff,3.0,THURSDAY,1
+48163,155781,1,Cash loans,M,N,N,0,157500.0,1001884.5,895500.0,Family,Working,Incomplete higher,Single / not married,-1286,1,1,1,1,0,Security staff,1.0,TUESDAY,1
+48281,155914,1,Cash loans,F,N,N,0,63000.0,508495.5,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,-8063,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+48402,156054,1,Cash loans,F,N,N,2,112500.0,450000.0,450000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-3920,1,1,0,1,0,Cooking staff,4.0,THURSDAY,1
+48429,156083,1,Cash loans,F,N,N,1,135000.0,327024.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3200,1,1,0,1,0,Laborers,3.0,THURSDAY,1
+48536,156207,1,Revolving loans,F,N,N,2,180000.0,180000.0,180000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1080,1,1,0,1,0,Core staff,4.0,SATURDAY,0
+48547,156220,1,Cash loans,F,N,N,0,225000.0,1460691.0,1363500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1237,1,1,0,1,0,Sales staff,2.0,SATURDAY,1
+48633,156322,1,Cash loans,M,N,N,0,675000.0,450000.0,450000.0,Unaccompanied,Commercial associate,Higher education,Married,-1845,1,1,0,1,0,Laborers,2.0,MONDAY,1
+48659,156348,1,Cash loans,F,N,N,0,148500.0,312768.0,270000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-11505,1,1,0,1,0,Laborers,1.0,TUESDAY,1
+48692,156387,1,Cash loans,F,N,N,0,135000.0,540000.0,540000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1825,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+48807,156520,1,Cash loans,M,N,N,1,292500.0,298512.0,270000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3633,1,1,0,1,0,Laborers,3.0,SATURDAY,1
+49007,156751,1,Cash loans,M,N,N,0,180000.0,900000.0,900000.0,Unaccompanied,Working,Incomplete higher,Single / not married,-3667,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+49034,156780,1,Cash loans,M,N,N,2,315000.0,970380.0,810000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3911,1,1,1,1,0,Laborers,4.0,FRIDAY,1
+49090,156839,1,Cash loans,M,N,N,1,135000.0,269550.0,225000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-3141,1,1,1,1,0,Drivers,3.0,THURSDAY,1
+49101,156850,1,Cash loans,F,N,N,1,85500.0,232344.0,157500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2480,1,1,0,1,0,Core staff,3.0,THURSDAY,1
+49148,156901,1,Cash loans,M,N,N,2,468000.0,549000.0,549000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-2987,1,1,1,1,0,Laborers,4.0,SATURDAY,1
+49300,157072,1,Cash loans,F,N,N,0,157500.0,544491.0,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1789,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+49615,157436,1,Cash loans,M,N,N,0,112500.0,364896.0,315000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3108,1,1,1,1,0,Security staff,2.0,WEDNESDAY,1
+49690,157521,1,Cash loans,M,N,N,0,137677.5,1800000.0,1800000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1223,1,1,1,1,0,Laborers,1.0,THURSDAY,1
+49815,157669,1,Cash loans,F,N,N,0,76500.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2521,1,1,1,1,0,Sales staff,2.0,SATURDAY,1
+49837,157692,1,Cash loans,F,N,N,2,76500.0,254700.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1447,1,1,0,1,0,Sales staff,4.0,SUNDAY,1
+49863,157720,1,Cash loans,M,N,N,0,175500.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-4465,1,1,0,1,0,Core staff,1.0,WEDNESDAY,1
+50116,158022,1,Cash loans,F,N,N,0,78750.0,381528.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2045,1,1,1,1,0,Security staff,2.0,FRIDAY,1
+50262,158188,1,Cash loans,F,N,N,0,112500.0,313438.5,283500.0,Family,Working,Secondary / secondary special,Married,-1240,1,1,0,1,0,Accountants,2.0,MONDAY,1
+50305,158244,1,Cash loans,M,N,N,1,135000.0,298512.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1614,1,1,0,1,0,Laborers,2.0,MONDAY,1
+50734,158745,1,Cash loans,M,N,N,1,157500.0,260640.0,225000.0,Unaccompanied,Working,Higher education,Separated,-1160,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+50802,158832,1,Cash loans,F,N,N,0,103500.0,544500.0,544500.0,Unaccompanied,Working,Higher education,Married,-1355,1,1,1,1,0,Core staff,2.0,MONDAY,1
+50973,159028,1,Cash loans,F,N,N,0,157500.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1212,1,1,1,1,0,Core staff,2.0,THURSDAY,1
+50988,159046,1,Cash loans,F,N,N,0,90000.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2890,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+51050,159116,1,Cash loans,M,N,N,2,315000.0,781920.0,675000.0,Family,Commercial associate,Secondary / secondary special,Married,-1558,1,1,0,1,0,Drivers,4.0,FRIDAY,1
+51184,159268,1,Cash loans,F,N,N,0,90000.0,533668.5,477000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3129,1,1,0,1,0,Medicine staff,2.0,WEDNESDAY,2
+51341,159448,1,Cash loans,M,N,N,0,180000.0,540000.0,540000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1146,1,1,1,1,0,Drivers,2.0,TUESDAY,1
+51347,159455,1,Cash loans,F,N,N,0,202500.0,1078200.0,900000.0,Unaccompanied,Working,Lower secondary,Married,-5919,1,1,1,1,0,Core staff,2.0,MONDAY,1
+51375,159487,1,Cash loans,M,N,N,1,180000.0,269550.0,225000.0,Family,State servant,Secondary / secondary special,Civil marriage,-1151,1,1,0,1,0,Core staff,3.0,TUESDAY,1
+51449,159574,1,Cash loans,F,N,N,1,112500.0,770292.0,688500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-3610,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+51451,159576,1,Cash loans,F,N,N,0,225000.0,900000.0,900000.0,Unaccompanied,Working,Higher education,Married,-2298,1,1,1,1,0,Accountants,2.0,MONDAY,1
+51529,159666,1,Cash loans,F,N,N,0,83250.0,450000.0,450000.0,"Spouse, partner",Working,Secondary / secondary special,Married,-1847,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+51714,159887,1,Cash loans,F,N,N,0,157500.0,1082214.0,945000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-4911,1,1,0,1,0,Sales staff,1.0,MONDAY,1
+51778,159962,1,Cash loans,M,N,N,1,112500.0,735052.5,657000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1722,1,1,0,1,0,Laborers,3.0,THURSDAY,1
+51814,160002,1,Cash loans,F,N,N,2,112500.0,396000.0,396000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2066,1,1,1,1,0,Sales staff,4.0,WEDNESDAY,1
+52040,160268,1,Cash loans,F,N,N,0,54000.0,646920.0,540000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4701,1,1,1,1,0,Medicine staff,2.0,MONDAY,1
+52576,160889,1,Cash loans,M,N,N,0,99000.0,545040.0,450000.0,Unaccompanied,Working,Higher education,Single / not married,-2225,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+52741,161093,1,Cash loans,F,N,N,0,67500.0,225000.0,225000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1824,1,1,0,1,0,Cooking staff,2.0,TUESDAY,1
+52926,161301,1,Cash loans,F,N,N,1,67500.0,254700.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3488,1,1,1,1,0,Laborers,3.0,SATURDAY,1
+52933,161308,1,Cash loans,M,N,N,0,225000.0,1107423.0,949500.0,Unaccompanied,Working,Higher education,Single / not married,-2628,1,1,0,1,0,Sales staff,1.0,TUESDAY,0
+52962,161340,1,Cash loans,F,N,N,1,81000.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-9195,1,1,0,1,0,Laborers,3.0,SATURDAY,1
+53041,161433,1,Cash loans,M,N,N,0,225000.0,1528200.0,1350000.0,Unaccompanied,Commercial associate,Higher education,Widow,-1468,1,1,1,1,1,Laborers,1.0,TUESDAY,1
+53110,161509,1,Revolving loans,F,N,N,1,90000.0,247500.0,247500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2903,1,1,0,1,0,Laborers,3.0,MONDAY,0
+53161,161569,1,Revolving loans,F,N,N,0,180000.0,180000.0,180000.0,Unaccompanied,Working,Incomplete higher,Single / not married,-1217,1,1,1,1,0,Sales staff,1.0,THURSDAY,0
+53230,161645,1,Cash loans,M,N,N,1,135000.0,1078200.0,900000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-3824,1,1,1,1,0,Core staff,3.0,MONDAY,1
+53243,161659,1,Cash loans,M,N,N,2,112500.0,495351.0,459000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-4725,1,1,0,1,0,Laborers,4.0,TUESDAY,1
+53313,161747,1,Cash loans,F,N,N,0,112500.0,331834.5,252000.0,Unaccompanied,Commercial associate,Higher education,Civil marriage,-1097,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+53502,161965,1,Cash loans,F,N,N,2,180000.0,296280.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1392,1,1,1,1,0,Laborers,4.0,MONDAY,1
+53559,162042,1,Cash loans,F,N,N,2,90000.0,203760.0,180000.0,"Spouse, partner",Working,Higher education,Married,-1286,1,1,0,1,0,Laborers,4.0,MONDAY,1
+53741,162255,1,Cash loans,M,N,N,0,180000.0,679500.0,679500.0,Unaccompanied,Working,Higher education,Married,-1413,1,1,1,1,0,Laborers,2.0,THURSDAY,1
+53769,162289,1,Cash loans,M,N,N,1,90000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3440,1,1,0,1,0,Laborers,3.0,FRIDAY,1
+53973,162538,1,Cash loans,F,N,N,0,180000.0,900000.0,900000.0,Unaccompanied,Working,Incomplete higher,Married,-2404,1,1,0,1,1,Accountants,2.0,THURSDAY,1
+54061,162633,1,Cash loans,F,N,N,0,117000.0,314100.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1429,1,1,1,1,0,Sales staff,2.0,WEDNESDAY,1
+54119,162699,1,Cash loans,F,N,N,0,157500.0,497520.0,450000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,-6151,1,1,0,1,0,High skill tech staff,1.0,FRIDAY,1
+54186,162772,1,Cash loans,F,N,N,0,90000.0,270000.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,-7142,1,1,1,1,0,Medicine staff,2.0,WEDNESDAY,1
+54190,162779,1,Cash loans,F,N,N,0,76500.0,450000.0,450000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1765,1,1,0,1,0,Cooking staff,2.0,FRIDAY,1
+54228,162825,1,Cash loans,F,N,N,2,135000.0,509400.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4589,1,1,1,1,0,Accountants,4.0,THURSDAY,1
+54327,162939,1,Cash loans,F,N,N,0,202500.0,254799.0,193500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1084,1,1,1,1,0,Sales staff,2.0,FRIDAY,1
+54610,163277,1,Cash loans,F,N,N,0,103500.0,526491.0,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,-2421,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+54743,163428,1,Cash loans,M,N,N,0,166500.0,900000.0,900000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1843,1,1,1,1,0,Laborers,1.0,WEDNESDAY,1
+54972,163696,1,Cash loans,F,N,N,0,90000.0,640080.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1992,1,1,0,1,0,Core staff,2.0,SUNDAY,1
+55179,163931,1,Cash loans,M,N,N,0,135000.0,239850.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1653,1,1,1,1,0,Drivers,2.0,WEDNESDAY,1
+55270,164041,1,Cash loans,F,N,N,2,85500.0,654498.0,585000.0,Unaccompanied,Commercial associate,Higher education,Married,-4625,1,1,0,1,0,High skill tech staff,4.0,SATURDAY,1
+55510,164325,1,Cash loans,F,N,N,2,135000.0,573408.0,495000.0,Family,Working,Secondary / secondary special,Married,-3039,1,1,0,1,0,Laborers,4.0,WEDNESDAY,1
+55516,164333,1,Cash loans,M,N,N,1,180000.0,450000.0,450000.0,Family,Working,Secondary / secondary special,Married,-3047,1,1,0,1,0,Laborers,3.0,MONDAY,1
+55838,164693,1,Cash loans,F,N,N,2,180000.0,528633.0,472500.0,Unaccompanied,Working,Higher education,Separated,-1232,1,1,0,1,0,High skill tech staff,3.0,WEDNESDAY,1
+56107,165015,1,Cash loans,F,N,N,0,225000.0,401386.5,346500.0,Unaccompanied,Working,Secondary / secondary special,Married,-2584,1,1,0,1,0,Cooking staff,2.0,TUESDAY,1
+56109,165017,1,Cash loans,F,N,N,3,112500.0,187704.0,148500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1351,1,1,1,1,0,Laborers,5.0,TUESDAY,1
+56371,165318,1,Cash loans,M,N,N,0,166500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3892,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+56380,165327,1,Cash loans,F,N,N,1,112500.0,298512.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,-6328,1,1,1,1,0,Cleaning staff,3.0,TUESDAY,1
+56475,165433,1,Cash loans,F,N,N,2,243000.0,401386.5,346500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,-6459,1,1,0,1,0,Medicine staff,3.0,FRIDAY,1
+56547,165524,1,Cash loans,F,N,N,3,157500.0,814041.0,679500.0,Unaccompanied,Working,Secondary / secondary special,Married,-3197,1,1,0,1,0,High skill tech staff,5.0,THURSDAY,1
+56648,165648,1,Cash loans,M,N,N,0,126000.0,441000.0,441000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-2822,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+57112,166198,1,Cash loans,F,N,N,1,112500.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-3261,1,1,0,1,0,Laborers,2.0,SUNDAY,1
+57163,166254,1,Cash loans,M,N,N,0,202500.0,1113840.0,900000.0,Unaccompanied,Commercial associate,Higher education,Married,-4252,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+57250,166357,1,Cash loans,F,N,N,0,180000.0,381528.0,315000.0,Unaccompanied,Working,Higher education,Single / not married,-1804,1,1,1,1,0,Core staff,1.0,TUESDAY,1
+57297,166408,1,Cash loans,F,N,N,0,72000.0,143910.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2015,1,1,0,1,0,Core staff,2.0,WEDNESDAY,1
+57431,166558,1,Cash loans,F,N,N,0,144000.0,916470.0,765000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3045,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+57469,166604,1,Cash loans,F,N,N,1,180000.0,1007761.5,927000.0,Unaccompanied,Working,Higher education,Married,-1181,1,1,0,1,0,Core staff,3.0,TUESDAY,1
+57734,166904,1,Cash loans,F,N,N,0,112500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-10694,1,1,0,1,0,Sales staff,2.0,TUESDAY,2
+57809,166999,1,Cash loans,M,N,N,0,117000.0,270000.0,270000.0,Other_B,State servant,Secondary / secondary special,Married,-1201,1,1,0,1,0,Core staff,2.0,SATURDAY,1
+57854,167049,1,Cash loans,F,N,N,2,157500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1323,1,1,0,1,0,Sales staff,3.0,FRIDAY,1
+57913,167125,1,Cash loans,F,N,N,2,76500.0,679500.0,679500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1201,1,1,1,1,0,Core staff,4.0,SUNDAY,1
+58020,167254,1,Cash loans,F,N,N,0,144000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-2631,1,1,1,1,0,Laborers,1.0,MONDAY,1
+58122,167377,1,Cash loans,F,N,N,1,112500.0,808650.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-2293,1,1,0,1,0,Sales staff,3.0,TUESDAY,1
+58307,167591,1,Cash loans,F,N,N,0,112500.0,640080.0,450000.0,Unaccompanied,State servant,Secondary / secondary special,Civil marriage,-1750,1,1,1,1,0,Cooking staff,2.0,THURSDAY,1
+58430,167730,1,Cash loans,F,N,N,0,135000.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3194,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+58466,167772,1,Cash loans,M,N,N,0,135000.0,180000.0,180000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-4794,1,1,1,1,0,Laborers,2.0,FRIDAY,1
+58526,167838,1,Cash loans,F,N,N,2,58500.0,158148.0,103500.0,Unaccompanied,Working,Incomplete higher,Single / not married,-1375,1,1,0,1,0,Core staff,3.0,THURSDAY,1
+58562,167878,1,Cash loans,M,N,N,0,103500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-4450,1,1,1,1,0,Laborers,1.0,SATURDAY,1
+58610,167936,1,Revolving loans,M,N,N,0,135000.0,225000.0,225000.0,Unaccompanied,State servant,Higher education,Single / not married,-2082,1,1,0,0,0,Core staff,1.0,WEDNESDAY,2
+58683,168029,1,Cash loans,F,N,N,1,126000.0,835380.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-8604,1,1,1,1,0,Security staff,3.0,THURSDAY,1
+58703,168051,1,Cash loans,F,N,N,0,135000.0,1096020.0,900000.0,Family,Working,Secondary / secondary special,Married,-1588,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+58718,168067,1,Cash loans,F,N,N,1,112500.0,942300.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3906,1,1,0,1,0,Laborers,3.0,THURSDAY,1
+58802,168166,1,Cash loans,M,N,N,0,112500.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2226,1,1,1,1,0,Drivers,2.0,SUNDAY,1
+58829,168198,1,Cash loans,F,N,N,1,99000.0,545040.0,450000.0,Unaccompanied,State servant,Higher education,Married,-3296,1,1,0,1,0,IT staff,3.0,WEDNESDAY,1
+59108,168511,1,Cash loans,F,N,N,0,54000.0,997335.0,832500.0,Unaccompanied,Working,Secondary / secondary special,Married,-5201,1,1,1,1,0,Sales staff,2.0,MONDAY,1
+59274,168698,1,Cash loans,F,N,N,0,315000.0,429763.5,351000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1978,1,1,0,1,1,Core staff,1.0,THURSDAY,1
+59347,168785,1,Cash loans,F,N,N,1,126000.0,886500.0,886500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1771,1,1,1,1,0,Managers,3.0,FRIDAY,1
+59375,168824,1,Cash loans,F,N,N,3,112500.0,1205896.5,1053000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1359,1,1,1,1,0,Sales staff,5.0,SUNDAY,1
+59431,168889,1,Cash loans,F,N,N,2,135000.0,1288350.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1779,1,1,0,1,0,Laborers,4.0,FRIDAY,1
+59455,168918,1,Cash loans,F,N,N,3,76500.0,437877.0,378000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3585,1,1,1,1,0,Laborers,5.0,TUESDAY,1
+59588,169072,1,Cash loans,F,N,N,0,121500.0,616261.5,468000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2225,1,1,0,1,0,Laborers,2.0,SUNDAY,1
+59702,169206,1,Revolving loans,F,N,N,0,58500.0,135000.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1091,1,1,1,1,0,Medicine staff,2.0,WEDNESDAY,0
+60149,169744,1,Cash loans,M,N,N,0,225000.0,1546020.0,1350000.0,Family,Working,Secondary / secondary special,Married,-2043,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+60520,170172,1,Cash loans,F,N,N,1,81000.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1600,1,1,0,1,0,Security staff,3.0,MONDAY,1
+60973,170709,1,Revolving loans,F,N,N,0,135000.0,495000.0,495000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3150,1,1,1,1,0,Laborers,2.0,SUNDAY,0
+61177,170943,1,Revolving loans,M,N,N,4,112500.0,180000.0,180000.0,Family,Working,Secondary / secondary special,Civil marriage,-1623,1,1,1,1,0,Sales staff,6.0,WEDNESDAY,0
+61238,171017,1,Cash loans,M,N,N,0,166500.0,360000.0,360000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-1367,1,1,1,1,1,Laborers,2.0,WEDNESDAY,1
+61253,171035,1,Cash loans,F,N,N,0,202500.0,835605.0,697500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-10982,1,1,0,1,0,High skill tech staff,2.0,TUESDAY,1
+61509,171335,1,Cash loans,M,N,N,2,171000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-5674,1,1,1,1,0,Core staff,4.0,SATURDAY,1
+61582,171426,1,Cash loans,M,N,N,0,360000.0,450000.0,450000.0,Family,Working,Secondary / secondary special,Married,-1540,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+61609,171453,1,Cash loans,F,N,N,0,90000.0,215640.0,180000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4295,1,1,1,1,0,Sales staff,2.0,SUNDAY,1
+61662,171513,1,Cash loans,F,N,N,0,126000.0,848745.0,675000.0,Family,Working,Secondary / secondary special,Married,-2089,1,1,0,1,0,Sales staff,2.0,SUNDAY,1
+61693,171549,1,Cash loans,F,N,N,0,135000.0,314100.0,225000.0,Unaccompanied,Working,Incomplete higher,Single / not married,-2243,1,1,0,1,0,Secretaries,1.0,FRIDAY,1
+61748,171609,1,Cash loans,M,N,N,0,225000.0,817560.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2520,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+61828,171710,1,Cash loans,M,N,N,0,153000.0,608076.0,427500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3866,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+61886,171777,1,Cash loans,F,N,N,0,202500.0,495985.5,409500.0,Unaccompanied,Working,Secondary / secondary special,Widow,-2270,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+61943,171843,1,Cash loans,F,N,N,1,247500.0,604413.0,459000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1328,1,1,0,1,0,Cooking staff,3.0,WEDNESDAY,1
+61955,171855,1,Cash loans,M,N,N,0,135000.0,269550.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1183,1,1,0,1,0,Drivers,2.0,THURSDAY,1
+61956,171856,1,Cash loans,M,N,N,1,157500.0,497520.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3572,1,1,1,1,0,Laborers,3.0,WEDNESDAY,1
+62049,171962,1,Cash loans,M,N,N,0,99000.0,601470.0,450000.0,Family,Working,Secondary / secondary special,Married,-1753,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+62074,171989,1,Cash loans,F,N,N,1,135000.0,781920.0,675000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-4702,1,1,0,1,0,Laborers,3.0,MONDAY,1
+62206,172145,1,Cash loans,F,N,N,0,112500.0,523597.5,468000.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,-1046,1,1,0,1,0,Core staff,1.0,WEDNESDAY,1
+62370,172325,1,Cash loans,F,N,N,0,247500.0,1256400.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1184,1,1,0,1,0,Sales staff,2.0,FRIDAY,1
+62375,172330,1,Cash loans,F,N,N,1,135000.0,254700.0,225000.0,Unaccompanied,Working,Higher education,Separated,-1225,1,1,1,1,0,Accountants,2.0,TUESDAY,1
+62545,172535,1,Cash loans,M,N,N,0,45000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1559,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+62592,172594,1,Cash loans,M,N,N,0,112500.0,348264.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1193,1,1,1,1,1,Laborers,1.0,WEDNESDAY,1
+62618,172625,1,Cash loans,M,N,N,0,112500.0,625536.0,540000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1628,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+62672,172693,1,Cash loans,F,N,N,2,157500.0,1620000.0,1620000.0,Unaccompanied,Working,Higher education,Married,-3883,1,1,0,1,0,Core staff,4.0,THURSDAY,1
+62810,172851,1,Cash loans,F,N,N,0,90000.0,67500.0,67500.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1515,1,1,1,1,1,Sales staff,1.0,THURSDAY,1
+62880,172932,1,Cash loans,F,N,N,0,247500.0,485640.0,450000.0,Family,State servant,Higher education,Single / not married,-1931,1,1,1,1,0,Core staff,1.0,SATURDAY,1
+62922,172981,1,Cash loans,F,N,N,1,247500.0,418500.0,418500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1393,1,1,1,1,0,Core staff,3.0,MONDAY,2
+62948,173018,1,Cash loans,F,N,N,0,90000.0,440784.0,360000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1143,1,1,0,1,0,Core staff,2.0,FRIDAY,1
+63171,173266,1,Cash loans,M,N,N,0,225000.0,755190.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1821,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+63276,173385,1,Cash loans,F,N,N,0,292500.0,1303812.0,1138500.0,Family,Working,Secondary / secondary special,Married,-3028,1,1,0,1,0,Cleaning staff,2.0,MONDAY,1
+63384,173508,1,Cash loans,M,N,N,0,112500.0,521280.0,450000.0,Unaccompanied,State servant,Secondary / secondary special,Widow,-4523,1,1,1,1,0,Managers,1.0,TUESDAY,1
+63409,173536,1,Cash loans,M,N,N,1,261000.0,630000.0,630000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3554,1,1,1,1,0,Laborers,3.0,THURSDAY,1
+63535,173681,1,Cash loans,F,N,N,0,76500.0,646920.0,540000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1978,1,1,0,1,0,Cooking staff,2.0,FRIDAY,1
+63549,173696,1,Cash loans,F,N,N,0,135000.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1449,1,1,1,1,0,Laborers,1.0,WEDNESDAY,1
+63711,173879,1,Cash loans,M,N,N,2,135000.0,1494486.0,1305000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3776,1,1,1,1,0,Laborers,4.0,TUESDAY,1
+63820,173997,1,Cash loans,F,N,N,0,90000.0,675000.0,675000.0,Unaccompanied,Working,Higher education,Married,-7688,1,1,1,1,0,Core staff,2.0,TUESDAY,1
+63897,174094,1,Cash loans,M,N,N,0,157500.0,469152.0,405000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1069,1,1,1,1,0,Low-skill Laborers,2.0,SUNDAY,1
+63993,174204,1,Cash loans,F,N,N,2,90000.0,180000.0,180000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1644,1,1,1,1,0,Sales staff,3.0,SUNDAY,1
+64336,174608,1,Cash loans,F,N,N,0,135000.0,1141686.0,922500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-7108,1,1,0,1,1,Laborers,2.0,WEDNESDAY,1
+64423,174707,1,Cash loans,F,N,N,0,108000.0,254700.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-2367,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+64473,174765,1,Cash loans,F,N,N,0,81000.0,597024.0,540000.0,Unaccompanied,Working,Higher education,Married,-2090,1,1,1,1,0,High skill tech staff,2.0,TUESDAY,1
+64494,174787,1,Cash loans,M,N,N,0,90000.0,247275.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1229,1,1,1,1,1,Laborers,2.0,THURSDAY,1
+64505,174799,1,Cash loans,F,N,N,0,180000.0,652500.0,652500.0,Family,Commercial associate,Higher education,Single / not married,-3162,1,1,1,1,0,Sales staff,1.0,WEDNESDAY,1
+64750,175093,1,Cash loans,M,N,N,0,121500.0,143910.0,135000.0,Family,Commercial associate,Secondary / secondary special,Single / not married,-1395,1,1,0,1,0,High skill tech staff,1.0,WEDNESDAY,1
+64807,175154,1,Cash loans,M,N,N,0,450000.0,1255680.0,1125000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1455,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+64870,175222,1,Cash loans,F,N,N,0,157500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1154,1,1,1,1,0,Laborers,1.0,WEDNESDAY,1
+64930,175293,1,Cash loans,F,N,N,0,112500.0,687600.0,450000.0,Unaccompanied,Working,Higher education,Married,-2593,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+64935,175299,1,Cash loans,F,N,N,0,90000.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1111,1,1,1,1,0,Sales staff,2.0,FRIDAY,1
+65028,175412,1,Cash loans,F,N,N,0,157500.0,298512.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1572,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+65071,175462,1,Cash loans,M,N,N,0,112500.0,210249.0,175500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1403,1,1,0,1,0,Laborers,1.0,MONDAY,1
+65216,175632,1,Cash loans,F,N,N,0,112500.0,380533.5,328500.0,Unaccompanied,State servant,Higher education,Widow,-9477,1,1,0,1,0,Core staff,1.0,WEDNESDAY,1
+65227,175644,1,Revolving loans,M,N,N,0,225000.0,180000.0,180000.0,Family,Working,Secondary / secondary special,Married,-1174,1,1,0,1,0,Drivers,2.0,MONDAY,0
+65379,175827,1,Cash loans,F,N,N,0,135000.0,835380.0,675000.0,Family,State servant,Secondary / secondary special,Married,-2101,1,1,0,1,0,Medicine staff,2.0,SATURDAY,1
+65387,175837,1,Cash loans,F,N,N,1,112500.0,101880.0,90000.0,Unaccompanied,Working,Higher education,Separated,-1513,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+65509,175973,1,Cash loans,F,N,N,0,202500.0,272520.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-8396,1,1,0,1,0,High skill tech staff,1.0,MONDAY,1
+66220,176801,1,Cash loans,F,N,N,0,337500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1588,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+66221,176802,1,Cash loans,F,N,N,0,67500.0,679500.0,679500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1266,1,1,1,1,0,Sales staff,2.0,SATURDAY,1
+66264,176851,1,Cash loans,F,N,N,0,216000.0,202500.0,202500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2750,1,1,0,1,0,Medicine staff,1.0,TUESDAY,1
+66311,176906,1,Cash loans,F,N,N,0,202500.0,695439.0,580500.0,Unaccompanied,Working,Higher education,Married,-6990,1,1,0,1,0,Managers,2.0,TUESDAY,1
+66354,176955,1,Cash loans,M,N,N,2,135000.0,521280.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1242,1,1,0,1,1,Laborers,4.0,SATURDAY,1
+66360,176962,1,Cash loans,F,N,N,1,67500.0,269550.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1531,1,1,1,1,0,Laborers,3.0,WEDNESDAY,1
+66511,177132,1,Cash loans,F,N,N,0,148500.0,284400.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3711,1,1,0,1,0,Managers,2.0,WEDNESDAY,1
+66546,177171,1,Cash loans,F,N,N,1,112500.0,254700.0,225000.0,Family,Working,Secondary / secondary special,Civil marriage,-1843,1,1,1,1,0,Sales staff,3.0,MONDAY,1
+66591,177220,1,Cash loans,F,N,N,0,126000.0,814041.0,679500.0,Family,Working,Secondary / secondary special,Single / not married,-7576,1,1,1,1,0,Core staff,1.0,WEDNESDAY,1
+66615,177246,1,Cash loans,M,N,N,0,162000.0,369720.0,292500.0,Family,Working,Secondary / secondary special,Married,-1323,1,1,0,1,0,Core staff,2.0,MONDAY,1
+66650,177290,1,Cash loans,F,N,N,1,85500.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1681,1,1,0,1,0,Sales staff,2.0,THURSDAY,1
+67026,177723,1,Cash loans,F,N,N,0,270000.0,549882.0,459000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,-2851,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+67257,177997,1,Cash loans,F,N,N,2,193500.0,970380.0,810000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1587,1,1,0,1,0,Laborers,4.0,TUESDAY,1
+67427,178193,1,Cash loans,F,N,N,1,225000.0,900000.0,900000.0,Unaccompanied,Working,Higher education,Married,-1874,1,1,1,1,0,Managers,3.0,TUESDAY,1
+67541,178322,1,Cash loans,F,N,N,1,135000.0,387000.0,387000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2062,1,1,0,1,1,High skill tech staff,3.0,WEDNESDAY,1
+67599,178392,1,Cash loans,F,N,N,0,67500.0,522000.0,522000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2950,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+67758,178580,1,Cash loans,F,N,N,0,157500.0,900000.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-7121,1,1,1,1,0,Accountants,1.0,MONDAY,1
+68490,179433,1,Cash loans,F,N,N,2,67500.0,254700.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1536,1,1,1,1,1,Laborers,4.0,SUNDAY,1
+68916,179927,1,Cash loans,F,N,N,0,157500.0,390960.0,337500.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1726,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+69013,180043,1,Cash loans,M,N,N,0,112500.0,137538.0,121500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-4403,1,1,0,1,0,Laborers,1.0,SUNDAY,1
+69050,180084,1,Cash loans,F,N,N,0,90000.0,256500.0,256500.0,Unaccompanied,State servant,Secondary / secondary special,Separated,-2131,1,1,0,1,0,Medicine staff,1.0,SATURDAY,1
+69219,180275,1,Cash loans,M,N,N,0,202500.0,723996.0,585000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1713,1,1,0,1,0,Sales staff,1.0,TUESDAY,1
+69476,180576,1,Cash loans,M,N,N,0,157500.0,517500.0,517500.0,Unaccompanied,Working,Higher education,Married,-1220,1,1,0,1,0,Laborers,2.0,MONDAY,2
+69665,180805,1,Cash loans,F,N,N,0,72000.0,450000.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1187,1,1,1,1,0,Laborers,1.0,TUESDAY,1
+69884,181065,1,Cash loans,F,N,N,1,67500.0,436032.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1200,1,1,1,1,0,Laborers,3.0,WEDNESDAY,1
+69888,181069,1,Revolving loans,F,N,N,1,67500.0,157500.0,157500.0,Children,Working,Secondary / secondary special,Single / not married,-4786,1,1,0,1,0,Core staff,2.0,THURSDAY,0
+69957,181149,1,Cash loans,M,N,N,0,81000.0,803259.0,670500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1876,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+69999,181199,1,Cash loans,M,N,N,0,180000.0,970380.0,810000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2645,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+70067,181276,1,Revolving loans,F,N,N,1,112500.0,270000.0,270000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2866,1,1,0,1,0,Sales staff,3.0,MONDAY,0
+70117,181339,1,Cash loans,F,N,N,2,67500.0,151272.0,99000.0,Family,Working,Secondary / secondary special,Married,-2833,1,1,0,1,0,Laborers,4.0,TUESDAY,1
+70438,181715,1,Cash loans,F,N,N,0,135000.0,1024740.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1509,1,1,1,1,0,High skill tech staff,1.0,SATURDAY,1
+70519,181812,1,Cash loans,M,N,N,0,540000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-5289,1,1,1,1,0,Laborers,1.0,TUESDAY,1
+70826,182152,1,Cash loans,M,N,N,1,45000.0,269550.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2911,1,1,0,1,0,Security staff,3.0,THURSDAY,1
+70863,182194,1,Cash loans,F,N,N,2,139500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1364,1,1,1,1,1,Laborers,4.0,SUNDAY,1
+71145,182518,1,Cash loans,M,N,N,0,135000.0,654498.0,585000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2657,1,1,0,1,0,Laborers,2.0,SUNDAY,1
+71234,182620,1,Cash loans,M,N,N,0,135000.0,1181016.0,846000.0,Unaccompanied,Working,Higher education,Married,-2832,1,1,1,1,0,Managers,2.0,THURSDAY,1
+71308,182699,1,Cash loans,F,N,N,0,112500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3219,1,1,1,1,0,Medicine staff,2.0,TUESDAY,1
+71389,182788,1,Cash loans,F,N,N,0,202500.0,407520.0,360000.0,Unaccompanied,Commercial associate,Higher education,Married,-1053,1,1,0,1,1,Accountants,2.0,FRIDAY,1
+71704,183152,1,Cash loans,M,N,N,1,360000.0,527373.0,477000.0,Unaccompanied,Working,Lower secondary,Married,-1048,1,1,0,1,1,Laborers,3.0,SUNDAY,1
+71732,183183,1,Cash loans,F,N,N,0,76500.0,225000.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1463,1,1,0,1,0,Sales staff,1.0,TUESDAY,1
+71758,183210,1,Cash loans,M,N,N,1,225000.0,152820.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1569,1,1,1,1,0,Laborers,3.0,THURSDAY,1
+71790,183246,1,Cash loans,M,N,N,0,67500.0,276277.5,238500.0,Unaccompanied,Working,Incomplete higher,Civil marriage,-1263,1,1,0,1,0,Laborers,2.0,MONDAY,1
+72143,183667,1,Cash loans,M,N,N,0,157500.0,473760.0,450000.0,Unaccompanied,Commercial associate,Incomplete higher,Single / not married,-1299,1,1,0,1,0,Core staff,1.0,FRIDAY,1
+72315,183864,1,Cash loans,M,N,N,0,292500.0,781920.0,675000.0,Unaccompanied,State servant,Higher education,Married,-2486,1,1,0,1,0,Core staff,2.0,THURSDAY,1
+72508,184086,1,Cash loans,M,N,N,0,157500.0,668304.0,540000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-7217,1,1,1,1,1,Laborers,2.0,WEDNESDAY,1
+72625,184213,1,Cash loans,F,N,N,0,157500.0,187704.0,148500.0,Unaccompanied,Working,Incomplete higher,Civil marriage,-2427,1,1,0,1,0,Private service staff,2.0,WEDNESDAY,1
+72790,184411,1,Cash loans,F,N,N,1,157500.0,254700.0,225000.0,Unaccompanied,State servant,Higher education,Separated,-3880,1,1,1,1,0,HR staff,2.0,FRIDAY,1
+72827,184449,1,Cash loans,F,N,N,0,112500.0,630000.0,630000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4563,1,1,0,1,0,Laborers,2.0,MONDAY,1
+73013,184663,1,Cash loans,F,N,N,0,54000.0,450000.0,450000.0,Family,Working,Secondary / secondary special,Married,-1725,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+73325,185020,1,Cash loans,F,N,N,1,180000.0,109008.0,90000.0,Unaccompanied,Working,Higher education,Married,-3976,1,1,0,1,0,Core staff,3.0,THURSDAY,1
+73520,185254,1,Cash loans,M,N,N,1,225000.0,807984.0,697500.0,Unaccompanied,Working,Higher education,Single / not married,-2421,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+73897,185705,1,Cash loans,F,N,N,0,135000.0,450000.0,450000.0,Unaccompanied,Commercial associate,Higher education,Separated,-10072,1,1,1,1,0,Managers,1.0,MONDAY,1
+73922,185731,1,Cash loans,F,N,N,1,54000.0,225000.0,225000.0,Group of people,Working,Secondary / secondary special,Single / not married,-1996,1,1,1,1,0,Cooking staff,2.0,TUESDAY,1
+74012,185830,1,Revolving loans,M,N,N,0,382500.0,1350000.0,1350000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,-1336,1,1,0,1,0,Sales staff,1.0,FRIDAY,0
+74181,186026,1,Cash loans,F,N,N,0,135000.0,817560.0,675000.0,Unaccompanied,Working,Higher education,Single / not married,-2859,1,1,1,1,0,Laborers,1.0,MONDAY,1
+74406,186288,1,Cash loans,F,N,N,2,112500.0,222547.5,202500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1861,1,1,0,1,0,Cooking staff,4.0,MONDAY,1
+74438,186327,1,Cash loans,F,N,N,0,90000.0,254700.0,225000.0,"Spouse, partner",Commercial associate,Higher education,Married,-2429,1,1,0,1,0,HR staff,2.0,FRIDAY,1
+74558,186459,1,Cash loans,F,N,N,0,157500.0,888840.0,675000.0,Family,Working,Secondary / secondary special,Civil marriage,-1271,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+74741,186673,1,Cash loans,M,N,N,0,189000.0,900000.0,900000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-3959,1,1,1,1,0,Core staff,2.0,THURSDAY,1
+74758,186697,1,Cash loans,F,N,N,3,112500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1772,1,1,1,1,0,Low-skill Laborers,5.0,TUESDAY,1
+74893,186857,1,Cash loans,F,N,N,0,135000.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2956,1,1,1,1,0,Laborers,2.0,THURSDAY,1
+75017,187002,1,Cash loans,M,N,N,0,112500.0,661500.0,661500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1154,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+75097,187097,1,Cash loans,F,N,N,1,225000.0,284400.0,225000.0,Unaccompanied,Working,Higher education,Separated,-2015,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+75258,187277,1,Cash loans,M,N,N,0,180000.0,298512.0,270000.0,"Spouse, partner",Working,Secondary / secondary special,Civil marriage,-3045,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+75305,187336,1,Cash loans,F,N,N,0,90000.0,270000.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1150,1,1,1,1,0,Laborers,2.0,MONDAY,1
+75365,187404,1,Cash loans,F,N,N,2,216000.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1734,1,1,1,1,0,Sales staff,3.0,FRIDAY,1
+75437,187488,1,Cash loans,M,N,N,0,202500.0,550467.0,387000.0,Unaccompanied,Working,Lower secondary,Single / not married,-1159,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+75520,187578,1,Cash loans,M,N,N,0,162000.0,224136.0,198000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1126,1,1,0,1,0,Laborers,2.0,MONDAY,1
+75552,187614,1,Cash loans,F,N,N,0,225000.0,184500.0,184500.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1691,1,1,0,1,0,Sales staff,1.0,THURSDAY,1
+75568,187631,1,Cash loans,F,N,N,0,112500.0,405000.0,405000.0,Unaccompanied,Working,Secondary / secondary special,Married,-6770,1,1,0,1,0,Medicine staff,2.0,THURSDAY,1
+75634,187704,1,Cash loans,F,N,N,0,67500.0,244584.0,193500.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,-1170,1,1,0,1,0,Medicine staff,1.0,THURSDAY,1
+75664,187739,1,Cash loans,F,N,N,0,180000.0,2687355.0,2475000.0,Unaccompanied,Commercial associate,Higher education,Civil marriage,-2186,1,1,1,1,0,Sales staff,2.0,WEDNESDAY,1
+75794,187889,1,Cash loans,F,N,N,0,157500.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-2030,1,1,0,1,0,Core staff,2.0,WEDNESDAY,1
+75839,187940,1,Cash loans,F,N,N,2,157500.0,490495.5,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1712,1,1,1,1,0,Managers,4.0,THURSDAY,1
+75944,188072,1,Cash loans,F,N,N,0,180000.0,1129500.0,1129500.0,Unaccompanied,Working,Higher education,Civil marriage,-10411,1,1,1,1,0,Accountants,2.0,THURSDAY,1
+75989,188123,1,Cash loans,M,N,N,0,90000.0,704844.0,630000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-6852,1,1,0,1,1,Core staff,2.0,FRIDAY,1
+76000,188137,1,Cash loans,M,N,N,0,225000.0,314100.0,225000.0,Family,Working,Lower secondary,Married,-1297,1,1,1,1,0,Security staff,2.0,FRIDAY,1
+76011,188148,1,Cash loans,F,N,N,0,90000.0,659610.0,472500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1668,1,1,0,1,0,Managers,2.0,TUESDAY,1
+76112,188268,1,Revolving loans,F,N,N,2,270000.0,810000.0,810000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3907,1,1,0,1,0,Medicine staff,4.0,FRIDAY,0
+76296,188474,1,Cash loans,M,N,N,0,225000.0,1546020.0,1350000.0,Unaccompanied,Working,Higher education,Single / not married,-3346,1,1,1,1,0,Laborers,1.0,THURSDAY,1
+76448,188652,1,Cash loans,M,N,N,0,135000.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1675,1,1,1,1,0,Laborers,1.0,SATURDAY,1
+76718,188964,1,Cash loans,F,N,N,2,180000.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2417,1,1,1,1,0,Sales staff,4.0,FRIDAY,1
+76774,189032,1,Cash loans,F,N,N,1,180000.0,334242.0,279000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,-1154,1,1,0,1,1,Sales staff,2.0,TUESDAY,1
+76778,189037,1,Cash loans,F,N,N,0,27000.0,225000.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1482,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+76807,189069,1,Cash loans,M,N,N,0,135000.0,436032.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1151,1,1,0,1,0,Drivers,1.0,FRIDAY,1
+76852,189119,1,Cash loans,M,N,N,0,202500.0,135000.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,-5571,1,1,0,1,0,Laborers,2.0,TUESDAY,1
+76859,189126,1,Revolving loans,F,N,N,1,202500.0,450000.0,450000.0,Unaccompanied,Commercial associate,Higher education,Married,-1201,1,1,0,1,0,High skill tech staff,3.0,MONDAY,0
+76993,189280,1,Cash loans,M,N,N,0,360000.0,531000.0,531000.0,Unaccompanied,Working,Incomplete higher,Married,-4063,1,1,1,1,0,Managers,2.0,FRIDAY,1
+77036,189329,1,Cash loans,F,N,N,0,112500.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3167,1,1,1,1,0,Core staff,2.0,SATURDAY,1
+77174,189484,1,Cash loans,M,N,N,0,225000.0,592560.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1621,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+77197,189510,1,Cash loans,M,N,N,1,162000.0,562491.0,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1996,1,1,0,1,0,Drivers,3.0,THURSDAY,1
+77344,189681,1,Cash loans,M,N,N,0,315000.0,900000.0,900000.0,Unaccompanied,Working,Higher education,Married,-3369,1,1,0,1,0,Core staff,2.0,MONDAY,1
+77438,189785,1,Cash loans,F,N,N,3,225000.0,297130.5,256500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2118,1,1,0,1,0,Sales staff,5.0,FRIDAY,1
+77471,189823,1,Revolving loans,M,N,N,0,225000.0,180000.0,180000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2413,1,1,0,1,0,Laborers,1.0,SUNDAY,0
+77914,190328,1,Cash loans,F,N,N,1,135000.0,781920.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2124,1,1,1,1,0,Sales staff,3.0,SATURDAY,1
+77985,190414,1,Cash loans,F,N,N,0,67500.0,194076.0,162000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1151,1,1,1,1,0,Core staff,2.0,MONDAY,1
+78098,190543,1,Cash loans,F,N,N,0,112500.0,948582.0,679500.0,Unaccompanied,Working,Higher education,Separated,-8161,1,1,0,1,0,Core staff,1.0,TUESDAY,1
+78109,190557,1,Cash loans,F,N,N,3,54000.0,269550.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1122,1,1,1,1,0,Core staff,5.0,THURSDAY,1
+78124,190575,1,Cash loans,F,N,N,2,121500.0,486459.0,342000.0,Unaccompanied,Working,Higher education,Married,-2862,1,1,0,1,0,Laborers,4.0,MONDAY,1
+78325,190800,1,Cash loans,M,N,N,0,202500.0,1051245.0,877500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2963,1,1,0,1,0,Laborers,1.0,MONDAY,1
+78482,190987,1,Cash loans,M,N,N,0,135000.0,640080.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-5098,1,1,0,1,0,Drivers,2.0,TUESDAY,1
+78737,191274,1,Revolving loans,F,N,N,0,112500.0,202500.0,202500.0,Unaccompanied,Working,Higher education,Civil marriage,-3369,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+78775,191323,1,Cash loans,M,N,N,0,247500.0,808650.0,675000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-2699,1,1,0,1,0,Core staff,2.0,MONDAY,1
+78853,191408,1,Cash loans,M,N,N,0,135000.0,1078200.0,900000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2954,1,1,0,1,0,Laborers,2.0,SUNDAY,2
+78864,191420,1,Cash loans,F,N,N,1,157500.0,431280.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1416,1,1,1,1,0,Managers,3.0,TUESDAY,1
+79003,191578,1,Cash loans,M,N,N,0,144000.0,824823.0,688500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1525,1,1,0,1,0,Drivers,2.0,SATURDAY,1
+79469,192125,1,Cash loans,M,N,N,0,274500.0,942300.0,675000.0,Unaccompanied,State servant,Higher education,Single / not married,-2623,1,1,0,1,0,Managers,1.0,MONDAY,2
+79481,192137,1,Revolving loans,F,N,N,0,189000.0,180000.0,180000.0,Family,Commercial associate,Secondary / secondary special,Married,-2812,1,1,0,1,0,Sales staff,2.0,WEDNESDAY,0
+79692,192378,1,Cash loans,F,N,N,1,90000.0,95940.0,90000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1347,1,1,1,1,0,Core staff,2.0,SATURDAY,1
+79890,192609,1,Cash loans,M,N,N,0,166500.0,277969.5,229500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1409,1,1,0,1,1,Laborers,1.0,TUESDAY,1
+80093,192850,1,Cash loans,F,N,N,2,112500.0,544491.0,454500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1228,1,1,1,1,0,Sales staff,4.0,TUESDAY,1
+80329,193127,1,Cash loans,M,N,N,0,139500.0,885762.0,634500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1241,1,1,0,1,0,Low-skill Laborers,2.0,TUESDAY,1
+80463,193280,1,Cash loans,F,N,N,0,202500.0,450000.0,450000.0,Unaccompanied,Working,Higher education,Married,-1051,1,1,0,1,0,Accountants,2.0,FRIDAY,1
+80727,193597,1,Cash loans,M,N,N,0,112500.0,215640.0,180000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2956,1,1,0,1,0,Laborers,1.0,MONDAY,1
+80746,193617,1,Cash loans,M,N,N,1,135000.0,450000.0,450000.0,Family,Commercial associate,Secondary / secondary special,Married,-6138,1,1,1,1,0,Security staff,3.0,WEDNESDAY,1
+80804,193684,1,Cash loans,M,N,N,1,90000.0,225000.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2357,1,1,0,1,0,Laborers,3.0,THURSDAY,1
+80929,193834,1,Cash loans,F,N,N,0,180000.0,1258650.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4318,1,1,1,1,0,Core staff,2.0,FRIDAY,1
+81035,193951,1,Cash loans,F,N,N,0,157500.0,592560.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1959,1,1,0,1,0,Core staff,1.0,THURSDAY,1
+81040,193957,1,Cash loans,F,N,N,0,157500.0,298512.0,270000.0,Unaccompanied,Working,Incomplete higher,Married,-1883,1,1,1,1,0,Sales staff,2.0,THURSDAY,1
+81085,194012,1,Cash loans,F,N,N,0,225000.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1404,1,1,0,1,0,Medicine staff,2.0,MONDAY,1
+81127,194062,1,Cash loans,M,N,N,0,292500.0,1078200.0,900000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1662,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+81190,194135,1,Cash loans,M,N,N,0,180000.0,450000.0,450000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,-1198,1,1,1,1,0,Sales staff,1.0,SUNDAY,1
+81669,194707,1,Cash loans,F,N,N,0,166500.0,508495.5,454500.0,Family,Working,Secondary / secondary special,Married,-2953,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+81673,194711,1,Cash loans,F,N,N,0,90000.0,337500.0,337500.0,Unaccompanied,Working,Secondary / secondary special,Married,-2987,1,1,0,1,0,Laborers,2.0,MONDAY,1
+81775,194829,1,Cash loans,F,N,N,0,157500.0,1125000.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1658,1,1,1,1,0,Sales staff,2.0,TUESDAY,1
+81777,194831,1,Cash loans,F,N,N,2,135000.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-2676,1,1,0,1,0,Laborers,3.0,WEDNESDAY,1
+81785,194839,1,Cash loans,F,N,N,0,180000.0,521280.0,450000.0,Unaccompanied,Commercial associate,Higher education,Married,-1920,1,1,0,1,0,Sales staff,2.0,MONDAY,1
+81896,194970,1,Cash loans,F,N,N,0,144000.0,1442952.0,1260000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2994,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+81971,195058,1,Cash loans,M,N,N,0,90000.0,691020.0,495000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-11473,1,1,0,1,0,Drivers,2.0,FRIDAY,1
+82127,195243,1,Cash loans,F,N,N,0,90000.0,592560.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1124,1,1,0,1,0,Sales staff,1.0,THURSDAY,1
+82180,195302,1,Cash loans,M,N,N,1,112500.0,877500.0,877500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1340,1,1,0,1,0,Drivers,3.0,TUESDAY,1
+82195,195319,1,Cash loans,F,N,N,0,90000.0,247275.0,225000.0,Unaccompanied,State servant,Higher education,Married,-1417,1,1,1,1,0,Core staff,2.0,MONDAY,1
+82297,195432,1,Cash loans,M,N,N,1,90000.0,239418.0,211500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2391,1,1,1,1,0,Low-skill Laborers,2.0,THURSDAY,1
+82603,195797,1,Cash loans,F,N,N,0,121500.0,202500.0,202500.0,Family,Working,Secondary / secondary special,Married,-1632,1,1,1,1,0,Medicine staff,2.0,FRIDAY,1
+82719,195934,1,Cash loans,F,N,N,0,112500.0,247275.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2241,1,1,0,1,0,Sales staff,2.0,WEDNESDAY,1
+82957,196213,1,Cash loans,F,N,N,1,90000.0,254700.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1279,1,1,1,1,0,Sales staff,2.0,WEDNESDAY,1
+82972,196231,1,Cash loans,F,N,N,0,99000.0,545040.0,450000.0,Unaccompanied,State servant,Higher education,Civil marriage,-1690,1,1,0,1,0,Core staff,2.0,SATURDAY,2
+83332,196653,1,Cash loans,F,N,N,0,157500.0,900000.0,900000.0,Family,Working,Secondary / secondary special,Married,-1591,1,1,0,1,0,Waiters/barmen staff,2.0,MONDAY,1
+83574,196932,1,Cash loans,M,N,N,2,360000.0,239850.0,225000.0,Children,State servant,Higher education,Married,-1297,1,1,0,1,0,Core staff,4.0,WEDNESDAY,1
+83701,197076,1,Cash loans,F,N,N,0,207000.0,454500.0,454500.0,Family,Working,Secondary / secondary special,Married,-3244,1,1,1,1,0,Sales staff,2.0,THURSDAY,1
+83768,197151,1,Cash loans,F,N,N,0,112500.0,521280.0,450000.0,Family,Working,Secondary / secondary special,Married,-1879,1,1,1,1,0,Sales staff,2.0,THURSDAY,1
+83911,197319,1,Cash loans,F,N,N,1,81000.0,225000.0,225000.0,"Spouse, partner",Working,Higher education,Married,-1308,1,1,1,1,0,Sales staff,3.0,SATURDAY,1
+83929,197344,1,Cash loans,F,N,N,0,225000.0,886500.0,886500.0,Unaccompanied,Working,Higher education,Separated,-1111,1,1,0,1,0,Cleaning staff,1.0,MONDAY,1
+83933,197349,1,Cash loans,F,N,N,0,112500.0,900000.0,900000.0,Unaccompanied,Working,Higher education,Civil marriage,-8779,1,1,0,1,0,Laborers,2.0,MONDAY,1
+84058,197500,1,Cash loans,F,N,N,0,256500.0,675000.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-5994,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+84112,197569,1,Revolving loans,M,N,N,0,153000.0,180000.0,180000.0,Unaccompanied,Working,Incomplete higher,Single / not married,-1097,1,1,0,1,1,Core staff,1.0,MONDAY,1
+84187,197663,1,Cash loans,F,N,N,1,99000.0,178290.0,157500.0,Unaccompanied,Working,Higher education,Married,-3710,1,1,1,1,0,Laborers,3.0,TUESDAY,1
+84248,197739,1,Cash loans,M,N,N,0,157500.0,593010.0,495000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2875,1,1,0,1,0,Drivers,2.0,SATURDAY,1
+84283,197778,1,Cash loans,F,N,N,0,135000.0,360000.0,360000.0,Unaccompanied,Commercial associate,Higher education,Married,-4182,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+84379,197887,1,Cash loans,F,N,N,0,112500.0,545040.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1603,1,1,1,1,0,Sales staff,1.0,FRIDAY,1
+84477,198003,1,Cash loans,F,N,N,0,144000.0,1325475.0,1125000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-5072,1,1,1,1,0,Accountants,2.0,SUNDAY,1
+84737,198313,1,Cash loans,F,N,N,0,76500.0,188460.0,135000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-5240,1,1,0,1,0,Laborers,2.0,FRIDAY,1
+84873,198470,1,Cash loans,F,N,N,1,76500.0,150948.0,126000.0,Family,Working,Secondary / secondary special,Married,-1079,1,1,0,1,0,Laborers,3.0,FRIDAY,1
+85044,198659,1,Cash loans,F,N,N,0,184500.0,353241.0,319500.0,Family,Working,Secondary / secondary special,Single / not married,-2071,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+85141,198781,1,Cash loans,M,N,N,0,157500.0,585000.0,585000.0,Unaccompanied,Commercial associate,Lower secondary,Single / not married,-2029,1,1,1,1,0,Drivers,1.0,WEDNESDAY,1
+85220,198873,1,Cash loans,F,N,N,0,292500.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-9893,1,1,0,1,0,Laborers,1.0,MONDAY,1
+85247,198906,1,Cash loans,F,N,N,0,157500.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1549,1,1,0,1,0,Private service staff,2.0,SATURDAY,1
+85254,198914,1,Cash loans,F,N,N,0,157500.0,454500.0,454500.0,Unaccompanied,State servant,Secondary / secondary special,Civil marriage,-9344,1,1,0,1,0,Core staff,2.0,SATURDAY,1
+85315,198983,1,Cash loans,F,N,N,0,202500.0,169614.0,121500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1336,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+85320,198989,1,Cash loans,F,N,N,1,225000.0,1319269.5,1152000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2025,1,1,0,1,0,Sales staff,2.0,FRIDAY,1
+85470,199175,1,Cash loans,F,N,N,2,135000.0,1130760.0,810000.0,Family,Commercial associate,Secondary / secondary special,Married,-1268,1,1,0,1,0,Managers,4.0,THURSDAY,1
+85544,199265,1,Cash loans,F,N,N,2,81000.0,1061599.5,927000.0,Unaccompanied,Working,Higher education,Married,-2957,1,1,0,1,0,Core staff,4.0,SATURDAY,1
+85573,199297,1,Cash loans,F,N,N,0,157500.0,675000.0,675000.0,Unaccompanied,Working,Higher education,Single / not married,-1824,1,1,1,1,0,Laborers,1.0,WEDNESDAY,1
+85967,199752,1,Cash loans,F,N,N,1,45000.0,526491.0,454500.0,Unaccompanied,Working,Lower secondary,Married,-2809,1,1,1,1,0,Laborers,3.0,SATURDAY,1
+86163,199986,1,Cash loans,F,N,N,0,202500.0,343800.0,225000.0,Family,Working,Higher education,Married,-2618,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+86285,200139,1,Cash loans,F,N,N,1,90000.0,194076.0,162000.0,Family,Commercial associate,Secondary / secondary special,Separated,-3095,1,1,1,1,0,Sales staff,2.0,THURSDAY,1
+86439,200316,1,Cash loans,F,N,N,0,135000.0,1078200.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3151,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+86441,200318,1,Cash loans,F,N,N,1,180000.0,292500.0,292500.0,Unaccompanied,Working,Higher education,Married,-1195,1,1,0,1,0,Core staff,3.0,TUESDAY,1
+86478,200356,1,Cash loans,M,N,N,0,202500.0,943425.0,787500.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-4113,1,1,1,1,0,Laborers,1.0,THURSDAY,1
+86731,200666,1,Cash loans,F,N,N,0,135000.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-4558,1,1,0,1,0,Laborers,1.0,TUESDAY,1
+86797,200740,1,Cash loans,F,N,N,0,135000.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2230,1,1,0,1,0,Laborers,1.0,MONDAY,1
+86816,200764,1,Cash loans,F,N,N,0,90000.0,545040.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2687,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+86822,200771,1,Cash loans,F,N,N,1,67500.0,412560.0,270000.0,Family,Working,Secondary / secondary special,Married,-1072,1,1,0,1,0,High skill tech staff,3.0,FRIDAY,1
+86838,200788,1,Cash loans,F,N,N,0,112500.0,225000.0,225000.0,Family,Working,Secondary / secondary special,Single / not married,-1412,1,1,1,1,0,Sales staff,1.0,WEDNESDAY,1
+86929,200894,1,Cash loans,F,N,N,0,121500.0,1125000.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-7631,1,1,0,1,0,Core staff,1.0,FRIDAY,1
+86957,200929,1,Cash loans,F,N,N,1,157500.0,659610.0,472500.0,Other_B,Working,Secondary / secondary special,Single / not married,-8144,1,1,0,1,0,Core staff,2.0,THURSDAY,1
+87110,201102,1,Cash loans,F,N,N,0,135000.0,808650.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-1443,1,1,1,1,0,Sales staff,1.0,WEDNESDAY,1
+87188,201190,1,Cash loans,F,N,N,0,126000.0,485640.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-11545,1,1,1,1,0,Laborers,2.0,WEDNESDAY,1
+87261,201276,1,Cash loans,M,N,N,2,112500.0,942300.0,675000.0,Family,Working,Secondary / secondary special,Civil marriage,-10024,1,1,0,1,0,Core staff,4.0,WEDNESDAY,1
+87316,201337,1,Cash loans,F,N,N,0,360000.0,450000.0,450000.0,Unaccompanied,Working,Higher education,Married,-1466,1,1,1,1,0,Laborers,2.0,SUNDAY,1
+87342,201371,1,Cash loans,F,N,N,0,90000.0,1078200.0,900000.0,Family,Working,Secondary / secondary special,Married,-8659,1,1,0,1,0,Medicine staff,2.0,MONDAY,1
+87463,201511,1,Cash loans,M,N,N,0,157500.0,450000.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-1160,1,1,1,1,0,Security staff,2.0,MONDAY,1
+87504,201566,1,Cash loans,F,N,N,1,112500.0,190764.0,157500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Widow,-3145,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+87665,201759,1,Cash loans,F,N,N,3,90000.0,1078200.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2038,1,1,0,1,0,Laborers,5.0,MONDAY,1
+87794,201913,1,Cash loans,M,N,N,0,157500.0,157500.0,157500.0,Unaccompanied,Working,Higher education,Single / not married,-1286,1,1,0,1,0,Drivers,1.0,MONDAY,1
+87956,202108,1,Cash loans,F,N,N,1,229500.0,3020760.0,2700000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,-1379,1,1,1,1,0,Laborers,2.0,FRIDAY,1
+88012,202176,1,Cash loans,M,N,N,1,112500.0,900000.0,900000.0,Unaccompanied,Working,Higher education,Married,-1442,1,1,1,1,0,Laborers,3.0,WEDNESDAY,1
+88102,202279,1,Cash loans,M,N,N,0,67500.0,314055.0,238500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-1566,1,1,0,1,0,Laborers,2.0,MONDAY,1
+88236,202431,1,Cash loans,F,N,N,1,90000.0,1174005.0,1125000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-5283,1,1,0,1,0,Laborers,3.0,MONDAY,1
+88260,202467,1,Cash loans,F,N,N,0,112500.0,286704.0,247500.0,"Spouse, partner",Working,Secondary / secondary special,Married,-2781,1,1,0,1,0,Core staff,2.0,MONDAY,2
+88390,202622,1,Cash loans,M,N,N,1,157500.0,685386.0,585000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2865,1,1,0,1,0,Laborers,3.0,SUNDAY,1
+88490,202742,1,Cash loans,F,N,N,0,67500.0,646920.0,540000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3792,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+88562,202827,1,Cash loans,M,N,N,1,360000.0,1350000.0,1350000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2908,1,1,1,1,1,Managers,3.0,MONDAY,1
+88588,202856,1,Cash loans,M,N,N,1,135000.0,437076.0,405000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1328,1,1,1,1,0,Drivers,3.0,MONDAY,1
+88652,202932,1,Cash loans,F,N,N,1,90000.0,364896.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,-5526,1,1,1,1,0,Sales staff,3.0,FRIDAY,1
+88717,203007,1,Cash loans,F,N,N,0,180000.0,886500.0,886500.0,Unaccompanied,Working,Secondary / secondary special,Married,-2199,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+88922,203242,1,Cash loans,F,N,N,0,112500.0,130320.0,112500.0,Family,State servant,Higher education,Married,-1358,1,1,0,1,0,Core staff,2.0,FRIDAY,1
+89057,203404,1,Cash loans,F,N,N,0,135000.0,180000.0,180000.0,Unaccompanied,State servant,Higher education,Single / not married,-1384,1,1,1,1,0,Accountants,1.0,THURSDAY,1
+89150,203510,1,Cash loans,F,N,N,1,225000.0,385164.0,292500.0,Unaccompanied,Commercial associate,Lower secondary,Married,-2399,1,1,0,1,0,Accountants,3.0,SATURDAY,1
+89354,203739,1,Cash loans,F,N,N,0,144000.0,254700.0,225000.0,Unaccompanied,Working,Higher education,Married,-3053,1,1,1,1,0,Security staff,2.0,FRIDAY,1
+89368,203757,1,Cash loans,M,N,N,0,202500.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1083,1,1,0,1,0,Waiters/barmen staff,2.0,MONDAY,1
+89553,203969,1,Cash loans,F,N,N,0,225000.0,545040.0,450000.0,Unaccompanied,Working,Higher education,Civil marriage,-5990,1,1,1,1,0,Managers,2.0,MONDAY,1
+89562,203981,1,Cash loans,M,N,N,0,90000.0,364896.0,315000.0,Family,Commercial associate,Higher education,Single / not married,-1423,1,1,0,1,0,High skill tech staff,1.0,WEDNESDAY,1
+89620,204049,1,Cash loans,F,N,N,1,99000.0,122521.5,99000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2460,1,1,0,1,0,High skill tech staff,2.0,MONDAY,1
+89701,204144,1,Cash loans,M,N,N,0,112500.0,566055.0,472500.0,Unaccompanied,Working,Lower secondary,Civil marriage,-4407,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+89802,204273,1,Cash loans,F,N,N,0,144000.0,568800.0,450000.0,Family,State servant,Higher education,Civil marriage,-2533,1,1,0,1,0,Sales staff,2.0,TUESDAY,2
+90076,204577,1,Cash loans,F,N,N,1,81000.0,296280.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2050,1,1,1,1,0,Core staff,2.0,MONDAY,1
+90111,204613,1,Cash loans,M,N,N,0,135000.0,239850.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-5845,1,1,1,1,0,Drivers,2.0,SUNDAY,1
+90150,204663,1,Cash loans,F,N,N,0,67500.0,180000.0,180000.0,"Spouse, partner",Working,Secondary / secondary special,Civil marriage,-1355,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+90202,204723,1,Cash loans,M,N,N,0,135000.0,450000.0,450000.0,Unaccompanied,Working,Higher education,Single / not married,-1198,1,1,1,1,0,Laborers,1.0,MONDAY,1
+90215,204738,1,Cash loans,M,N,N,0,202500.0,729792.0,630000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-3202,1,1,0,1,0,Managers,1.0,TUESDAY,1
+90284,204813,1,Cash loans,M,N,N,1,180000.0,808650.0,675000.0,Family,Working,Secondary / secondary special,Married,-1214,1,1,1,1,0,Laborers,3.0,WEDNESDAY,2
+90325,204868,1,Cash loans,M,N,N,0,157500.0,1009566.0,904500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1198,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+90447,205005,1,Cash loans,M,N,N,1,315000.0,1024290.0,855000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1524,1,1,1,1,0,Drivers,3.0,TUESDAY,1
+90460,205022,1,Cash loans,F,N,N,2,180000.0,296280.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-4302,1,1,0,1,0,Medicine staff,4.0,THURSDAY,1
+90611,205201,1,Cash loans,F,N,N,0,112500.0,414792.0,315000.0,Family,Working,Secondary / secondary special,Married,-1659,1,1,1,1,0,Accountants,2.0,MONDAY,1
+90682,205292,1,Cash loans,F,N,N,1,112500.0,328405.5,283500.0,Unaccompanied,Working,Lower secondary,Married,-1629,1,1,1,1,0,Laborers,3.0,FRIDAY,1
+90829,205456,1,Revolving loans,F,N,N,1,90000.0,270000.0,270000.0,Unaccompanied,Commercial associate,Higher education,Married,-2811,1,1,0,1,0,Accountants,3.0,MONDAY,0
+90879,205514,1,Revolving loans,F,N,N,0,121500.0,180000.0,180000.0,Unaccompanied,Working,Higher education,Single / not married,-2484,1,1,0,0,0,Core staff,1.0,MONDAY,1
+90899,205538,1,Cash loans,F,N,N,0,405000.0,675000.0,675000.0,Unaccompanied,Commercial associate,Incomplete higher,Single / not married,-1469,1,1,1,1,1,Core staff,1.0,MONDAY,1
+90922,205570,1,Cash loans,M,N,N,1,99000.0,1078200.0,900000.0,Children,Commercial associate,Secondary / secondary special,Married,-1107,1,1,0,1,0,Laborers,3.0,FRIDAY,1
+91011,205685,1,Cash loans,F,N,N,0,112500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1994,1,1,1,1,0,Cooking staff,2.0,MONDAY,1
+91020,205697,1,Cash loans,M,N,N,0,180000.0,1078200.0,900000.0,Family,Working,Secondary / secondary special,Married,-1817,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+91093,205781,1,Cash loans,M,N,N,1,292500.0,526491.0,454500.0,Unaccompanied,Working,Higher education,Married,-3910,1,1,0,1,0,Laborers,3.0,MONDAY,1
+91138,205840,1,Cash loans,F,N,N,0,67500.0,360000.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-1947,1,1,1,1,0,Medicine staff,1.0,SUNDAY,1
+91398,206140,1,Cash loans,F,N,N,1,135000.0,675000.0,675000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3029,1,1,0,1,0,Accountants,3.0,SUNDAY,1
+91436,206184,1,Cash loans,F,N,N,1,103500.0,345645.0,243000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2322,1,1,0,1,0,Sales staff,3.0,SUNDAY,1
+91491,206244,1,Cash loans,M,N,N,0,112500.0,254700.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1604,1,1,0,1,0,Drivers,2.0,FRIDAY,1
+91692,206481,1,Cash loans,F,N,N,0,180000.0,225000.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-1112,1,1,1,1,1,Sales staff,1.0,SATURDAY,1
+91769,206567,1,Cash loans,F,N,N,0,202500.0,573408.0,495000.0,Unaccompanied,Working,Higher education,Married,-4939,1,1,0,1,0,Core staff,2.0,WEDNESDAY,1
+91817,206619,1,Cash loans,F,N,N,0,90000.0,450000.0,450000.0,Unaccompanied,Working,Incomplete higher,Single / not married,-1960,1,1,0,1,0,Sales staff,1.0,TUESDAY,1
+92114,206962,1,Cash loans,M,N,N,1,180000.0,1006920.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1948,1,1,0,1,0,Laborers,3.0,THURSDAY,4
+92212,207077,1,Cash loans,F,N,N,0,238500.0,450000.0,450000.0,Unaccompanied,State servant,Higher education,Married,-11394,1,1,1,1,0,Managers,2.0,TUESDAY,1
+92235,207102,1,Cash loans,F,N,N,0,135000.0,272520.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1380,1,1,0,1,0,Medicine staff,2.0,FRIDAY,1
+92405,207298,1,Cash loans,F,N,N,0,157500.0,436032.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2737,1,1,0,1,0,Managers,1.0,SUNDAY,1
+92573,207496,1,Cash loans,F,N,N,0,90000.0,143910.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1782,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+92674,207608,1,Cash loans,F,N,N,3,157500.0,408780.0,337500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1098,1,1,0,1,0,Sales staff,5.0,WEDNESDAY,1
+92718,207656,1,Cash loans,F,N,N,0,58500.0,269550.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1034,1,1,0,1,0,Medicine staff,2.0,SATURDAY,1
+92732,207671,1,Cash loans,F,N,N,0,157500.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-7075,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+92867,207829,1,Cash loans,M,N,N,0,81000.0,900000.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1690,1,1,1,1,0,Laborers,2.0,SATURDAY,1
+92868,207831,1,Cash loans,F,N,N,0,112500.0,540000.0,540000.0,Unaccompanied,Working,Higher education,Married,-2715,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+93222,208252,1,Cash loans,F,N,N,0,90000.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1149,1,1,0,1,0,Medicine staff,1.0,TUESDAY,1
+93262,208297,1,Cash loans,F,N,N,0,153000.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-2327,1,1,0,1,0,Laborers,1.0,WEDNESDAY,1
+93294,208335,1,Cash loans,M,N,N,1,112500.0,343377.0,283500.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3634,1,1,0,1,0,Laborers,3.0,THURSDAY,1
+93317,208366,1,Cash loans,M,N,N,0,135000.0,677664.0,585000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1661,1,1,1,1,0,Drivers,2.0,WEDNESDAY,1
+93469,208541,1,Cash loans,F,N,N,2,99000.0,545040.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-6008,1,1,1,1,0,Laborers,4.0,THURSDAY,1
+93590,208680,1,Cash loans,M,N,N,0,315000.0,523597.5,468000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1039,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+93646,208744,1,Cash loans,F,N,N,1,144000.0,389844.0,315000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1460,1,1,1,1,0,Sales staff,3.0,THURSDAY,1
+93848,208977,1,Cash loans,F,N,N,0,202500.0,545040.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-1036,1,1,0,1,0,Sales staff,2.0,FRIDAY,1
+93860,208990,1,Cash loans,F,N,N,0,148500.0,508495.5,454500.0,Unaccompanied,Commercial associate,Secondary / secondary special,Single / not married,-2270,1,1,0,1,0,Managers,1.0,FRIDAY,1
+93948,209092,1,Cash loans,F,N,N,1,76500.0,521280.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1412,1,1,1,1,0,Sales staff,3.0,WEDNESDAY,1
+93961,209112,1,Revolving loans,F,N,N,1,180000.0,270000.0,270000.0,Family,State servant,Secondary / secondary special,Married,-8467,1,1,0,1,0,Medicine staff,3.0,MONDAY,0
+94016,209178,1,Cash loans,F,N,N,0,112500.0,830214.0,693000.0,Unaccompanied,Commercial associate,Higher education,Single / not married,-1673,1,1,0,1,0,Security staff,1.0,MONDAY,1
+94286,209477,1,Cash loans,F,N,N,0,112500.0,976711.5,873000.0,Family,Working,Secondary / secondary special,Married,-2495,1,1,0,1,0,Laborers,2.0,MONDAY,1
+94319,209518,1,Cash loans,F,N,N,0,81000.0,284400.0,225000.0,Unaccompanied,Working,Higher education,Married,-2102,1,1,0,1,0,Secretaries,2.0,SATURDAY,1
+94425,209634,1,Cash loans,F,N,N,0,40500.0,188460.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1887,1,1,0,1,0,Laborers,2.0,SUNDAY,1
+94598,209842,1,Revolving loans,F,N,N,0,99000.0,135000.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1920,1,1,0,1,0,Sales staff,2.0,WEDNESDAY,0
+94615,209861,1,Cash loans,F,N,N,0,225000.0,691020.0,495000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-2292,1,1,0,1,0,Managers,1.0,MONDAY,1
+94836,210115,1,Cash loans,F,N,N,0,103500.0,743958.0,621000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1253,1,1,1,1,0,Security staff,2.0,TUESDAY,1
+94979,210288,1,Cash loans,M,N,N,0,90000.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1953,1,1,0,1,0,Security staff,1.0,THURSDAY,1
+94997,210308,1,Cash loans,M,N,N,0,225000.0,545040.0,450000.0,Unaccompanied,Commercial associate,Incomplete higher,Married,-1527,1,1,0,1,0,Drivers,2.0,WEDNESDAY,1
+95104,210426,1,Cash loans,F,N,N,1,180000.0,1417185.0,1237500.0,Unaccompanied,State servant,Higher education,Married,-6140,1,1,0,1,0,Medicine staff,3.0,WEDNESDAY,1
+95155,210479,1,Cash loans,F,N,N,0,225000.0,1102171.5,945000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-1149,1,1,0,1,0,Sales staff,2.0,WEDNESDAY,1
+95241,210578,1,Cash loans,F,N,N,0,112500.0,900000.0,900000.0,Unaccompanied,Working,Secondary / secondary special,Widow,-11869,1,1,1,1,0,Medicine staff,1.0,MONDAY,1
+95252,210589,1,Cash loans,F,N,N,2,72000.0,193392.0,153000.0,Unaccompanied,Working,Incomplete higher,Married,-2216,1,1,0,1,0,Core staff,4.0,WEDNESDAY,1
+95322,210669,1,Cash loans,F,N,N,2,900000.0,790830.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1426,1,1,1,1,0,Managers,4.0,WEDNESDAY,1
+95340,210690,1,Cash loans,F,N,N,0,202500.0,1260000.0,1260000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2499,1,1,1,1,0,Managers,2.0,MONDAY,1
+95366,210721,1,Cash loans,F,N,N,0,90000.0,942300.0,675000.0,"Spouse, partner",Working,Secondary / secondary special,Married,-3292,1,1,0,1,0,Sales staff,2.0,MONDAY,1
+95462,210838,1,Cash loans,F,N,N,0,112500.0,247500.0,247500.0,Unaccompanied,Working,Higher education,Married,-2607,1,1,1,1,0,Laborers,2.0,THURSDAY,1
+95502,210881,1,Cash loans,F,N,N,0,144000.0,754740.0,630000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2354,1,1,1,1,0,Laborers,2.0,SATURDAY,2
+95607,210996,1,Cash loans,F,N,N,2,157500.0,254700.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2414,1,1,1,1,0,Managers,4.0,SUNDAY,1
+95643,211034,1,Cash loans,F,N,N,0,126000.0,1350000.0,1350000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-7579,1,1,1,1,0,High skill tech staff,2.0,TUESDAY,1
+95788,211202,1,Cash loans,F,N,N,1,157500.0,675000.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-6434,1,1,0,1,0,Laborers,2.0,THURSDAY,1
+95860,211284,1,Cash loans,F,N,N,0,99000.0,435253.5,306000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1249,1,1,0,1,0,Secretaries,2.0,FRIDAY,1
+96109,211585,1,Cash loans,F,N,N,0,112500.0,687600.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Separated,-1181,1,1,0,1,0,Sales staff,1.0,SATURDAY,2
+96266,211762,1,Cash loans,M,N,N,0,180000.0,765522.0,639000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-3325,1,1,0,1,0,Laborers,2.0,SATURDAY,1
+96428,211942,1,Cash loans,F,N,N,0,67500.0,284400.0,225000.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,-3818,1,1,0,1,0,Laborers,1.0,MONDAY,1
+96479,212006,1,Cash loans,F,N,N,0,225000.0,450000.0,450000.0,Unaccompanied,Working,Higher education,Civil marriage,-2722,1,1,1,1,0,Accountants,2.0,SUNDAY,1
+96904,212491,1,Cash loans,F,N,N,2,67500.0,590337.0,477000.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1884,1,1,0,1,0,Cleaning staff,4.0,WEDNESDAY,1
+96908,212496,1,Cash loans,F,N,N,0,112500.0,450000.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3681,1,1,0,1,0,Sales staff,2.0,THURSDAY,1
+96979,212573,1,Cash loans,M,N,N,0,247500.0,379237.5,288000.0,Children,Commercial associate,Secondary / secondary special,Single / not married,-2644,1,1,0,1,0,Sales staff,1.0,SATURDAY,1
+96980,212574,1,Cash loans,F,N,N,1,216000.0,521280.0,450000.0,Children,Commercial associate,Secondary / secondary special,Widow,-1824,1,1,0,1,0,Sales staff,2.0,SATURDAY,1
+97052,212657,1,Cash loans,M,N,N,0,67500.0,405000.0,405000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1891,1,1,0,1,0,Drivers,1.0,WEDNESDAY,1
+97089,212704,1,Cash loans,F,N,N,0,90000.0,180000.0,180000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-1046,1,1,0,1,0,Laborers,2.0,WEDNESDAY,1
+97161,212794,1,Cash loans,F,N,N,0,126000.0,1125000.0,1125000.0,Family,Working,Secondary / secondary special,Married,-11419,1,1,1,1,0,Accountants,2.0,MONDAY,1
+97452,213139,1,Cash loans,F,N,N,0,202500.0,346500.0,346500.0,Unaccompanied,Working,Secondary / secondary special,Married,-1266,1,1,1,1,0,Cleaning staff,2.0,WEDNESDAY,1
+97462,213154,1,Cash loans,F,N,N,0,180000.0,495000.0,495000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1230,1,1,0,1,0,Cleaning staff,2.0,TUESDAY,1
+97486,213185,1,Cash loans,M,N,N,1,99000.0,539100.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-5239,1,1,0,1,0,Laborers,2.0,SUNDAY,1
+97670,213408,1,Cash loans,F,N,N,0,117000.0,269550.0,225000.0,Unaccompanied,Working,Incomplete higher,Single / not married,-1163,1,1,0,1,0,Sales staff,1.0,TUESDAY,1
+97736,213484,1,Cash loans,F,N,N,0,225000.0,521280.0,450000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Civil marriage,-6995,1,1,0,1,0,Core staff,2.0,MONDAY,1
+97809,213562,1,Cash loans,M,N,N,1,112500.0,143910.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1503,1,1,0,1,0,Low-skill Laborers,2.0,THURSDAY,1
+97886,213653,1,Cash loans,F,N,N,0,135000.0,1305000.0,1305000.0,Family,Commercial associate,Secondary / secondary special,Married,-3485,1,1,0,1,0,Waiters/barmen staff,2.0,MONDAY,1
+97936,213713,1,Cash loans,M,N,N,0,135000.0,314100.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-2265,1,1,0,1,0,Drivers,1.0,FRIDAY,1
+98105,213904,1,Cash loans,M,N,N,1,247500.0,314100.0,225000.0,"Spouse, partner",Commercial associate,Secondary / secondary special,Married,-1876,1,1,0,1,0,Drivers,3.0,WEDNESDAY,1
+98167,213977,1,Cash loans,F,N,N,1,202500.0,239850.0,225000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-2276,1,1,1,1,1,Waiters/barmen staff,3.0,MONDAY,1
+98254,214075,1,Cash loans,F,N,N,0,126000.0,891072.0,720000.0,Unaccompanied,Commercial associate,Secondary / secondary special,Married,-3965,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+98332,214164,1,Cash loans,M,N,N,0,112500.0,378000.0,378000.0,Unaccompanied,Working,Secondary / secondary special,Single / not married,-1449,1,1,1,1,0,Low-skill Laborers,1.0,WEDNESDAY,1
+98375,214211,1,Cash loans,F,N,N,0,67500.0,135000.0,135000.0,Unaccompanied,Working,Secondary / secondary special,Married,-7131,1,1,1,1,0,Laborers,2.0,TUESDAY,1
+98409,214253,1,Cash loans,F,N,N,0,126000.0,790830.0,675000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2464,1,1,0,1,0,Sales staff,2.0,TUESDAY,1
+98489,214348,1,Cash loans,F,N,N,1,108000.0,398016.0,360000.0,Unaccompanied,Working,Secondary / secondary special,Separated,-6391,1,1,1,1,0,Private service staff,2.0,MONDAY,1
+98531,214400,1,Cash loans,F,N,N,1,72000.0,385164.0,292500.0,Unaccompanied,State servant,Secondary / secondary special,Married,-1571,1,1,0,1,0,Core staff,3.0,SATURDAY,1
+98592,214471,1,Revolving loans,M,N,N,1,135000.0,270000.0,270000.0,Unaccompanied,Working,Secondary / secondary special,Married,-2355,1,1,0,0,0,Laborers,3.0,WEDNESDAY,2
+98858,214787,1,Cash loans,M,N,N,1,67500.0,284400.0,225000.0,Unaccompanied,Working,Secondary / secondary special,Civil marriage,-5348,1,1,1,1,0,Laborers,3.0,FRIDAY,1
+98872,214803,1,Cash loans,F,N,N,0,216000.0,500427.0,432000.0,Family,Commercial associate,Secondary / secondary special,Single / not married,-9652,1,1,0,1,0,High skill tech staff,1.0,FRIDAY,1
+99276,215262,1,Cash loans,F,N,N,0,202500.0,1321020.0,1125000.0,Unaccompanied,Working,Secondary / secondary special,Married,-3141,1,1,0,1,0,Private service staff,2.0,MONDAY,1
+99401,215406,1,Cash loans,M,N,N,0,45000.0,45000.0,45000.0,Unaccompanied,State servant,Secondary / secondary special,Single / not married,-2120,1,1,1,1,0,Core staff,1.0,WEDNESDAY,1
+99407,215415,1,Cash loans,M,N,N,0,180000.0,473760.0,450000.0,Family,Working,Higher education,Single / not married,-2512,1,1,0,1,0,Laborers,1.0,FRIDAY,1
+99429,215438,1,Cash loans,M,N,N,0,270000.0,720000.0,720000.0,Unaccompanied,Commercial associate,Incomplete higher,Civil marriage,-1905,1,1,1,1,1,Managers,2.0,SATURDAY,1
+99452,215462,1,Cash loans,M,N,N,0,157500.0,592560.0,450000.0,Unaccompanied,Working,Secondary / secondary special,Married,-1890,1,1,0,1,1,Managers,2.0,FRIDAY,1
+99967,216057,1,Cash loans,M,N,N,0,54000.0,360000.0,360000.0,Unaccompanied,Working,Higher education,Single / not married,-3190,1,1,1,1,0,Core staff,1.0,THURSDAY,1
